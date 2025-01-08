@@ -10,7 +10,9 @@ Here is **Tao Lin (Leo, 林涛)**.
 
 I am a graduate student in the Department of Engineering at the University of Cambridge, advised by [Prof. Özgür Akan](https://ioe.eng.cam.ac.uk/directory/akan), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/). Prior to Cambridge,  I have worked on System Engineering, Cybersecurity and Wireless Communication with [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Recently, I was honored to be selected as **AAAI and SIGKDD Undergraduate Scholars**.
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hc663 [at] cam.ac.uk
+I am an undergraduate student majoring in Artificial Intelligence at Kunming University of Science and Technology (KUST), advised by [Prof. Qingwang Wang](https://xzy.kust.edu.cn/info/1127/2815.htm) in the field of Computer Vision (CV), within the Intelligent Perception and Computing Laboratory. My current research interests include target detection and low-level vision. Moving forward, I am eager to explore and engage with multimodal technologies and embodied intelligence.
+
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - lintao012 [at] 163.com
 
 ---
 
