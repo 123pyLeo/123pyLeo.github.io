@@ -32,7 +32,7 @@ title: Hobbies
 ## Traveling
 
 <div class="third">
-    <img src="/images/ex1.jpg" class="floatpic">
+    <img src="/images/ex1.png" class="floatpic">
     <img src="/images/ex2.jpg" class="floatpic">
     <img src="/images/ex3.jpg" class="floatpic">
 </div>
