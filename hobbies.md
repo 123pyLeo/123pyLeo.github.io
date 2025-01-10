@@ -20,8 +20,8 @@ title: Hobbies
         justify-content: flex-start; /* 左对齐图片 */
     }
     .floatpic {
-        width: 160px; /* 调整为你想要的较小宽度 */
-        height: 160px; /* 调整为你想要的较小高度 */
+        width: 100px; /* 调整为你想要的较小宽度 */
+        height: 100px; /* 调整为你想要的较小高度 */
         object-fit: cover;
         margin-right: 1px; /* 可选：在图片之间添加一些间距 */
     }
@@ -43,8 +43,8 @@ title: Hobbies
         justify-content: flex-start; /* 左对齐图片 */
     }
     .floatpic {
-        width: 160px; /* 调整为你想要的较小宽度 */
-        height: 160px; /* 调整为你想要的较小高度 */
+        width: 100px; /* 调整为你想要的较小宽度 */
+        height: 100px; /* 调整为你想要的较小高度 */
         object-fit: cover;
         margin-right: 1px; /* 可选：在图片之间添加一些间距 */
     }
