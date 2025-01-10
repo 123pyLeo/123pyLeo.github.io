@@ -15,10 +15,13 @@ title: Hobbies
 </div>
 
 <style>
+    .third {
+        display: flex;
+        justify-content: space-between; /* 可选：在图片之间添加空间 */
+    }
     .floatpic {
-        width: 360px;
-        height: 360px;
-        /* 如果图片比例不同，确保它们不会被拉伸或压缩 */
+        width: 200px; /* 调整为你想要的较小宽度 */
+        height: 200px; /* 调整为你想要的较小高度 */
         object-fit: cover;
     }
 </style>
