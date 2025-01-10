@@ -13,7 +13,7 @@ title: Publications
 
 ---
 
-## under submission
+## Under submission
 
 - FASR-Net: Unsupervised Shadow Removal Leveraging Inherent Frequency Priors
 
