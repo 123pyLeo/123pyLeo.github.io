@@ -17,11 +17,7 @@ title: Publications
 
 - FASR-Net: Unsupervised Shadow Removal Leveraging Inherent Frequency Priors
 
-To address the challenges posed by shadows in various applications, we introduce **FASR-Net**, an unsupervised Frequency Aware Shadow Removal Network. Existing unsupervised methods have limitations, but FASR-Net leverages the inherent frequency characteristics of shadow regions to overcome these challenges.
-
-**Wavelet Attention Downsampling Module (WADM)** in FASR-Net integrates wavelet-based image decomposition and deformable attention. This module breaks down images into frequency components, enhancing shadow details in specific bands. In addition, the network introduces several innovative loss functions: the **frequency loss** captures image component details, the **brightness-chromaticity loss** references the chromaticity of shadow-free regions, and the **alignment loss** ensures smooth transitions between shadowed and shadow-free areas.
-
-We validate the effectiveness of FASR-Net through extensive experimental results on the **AISTD** and **SRD** datasets, demonstrating superior shadow removal performance compared to existing methods. Notably, it outperforms previous unsupervised methods and even some supervised ones in certain metrics. Ablation studies further confirm the critical role of each network component.
+We propose **FASR-Net**, an unsupervised Frequency Aware Shadow Removal Network, to tackle the challenges of shadow removal by exploiting the frequency characteristics of shadow regions. FASR-Net features a **Wavelet Attention Downsampling Module (WADM)** that integrates wavelet-based image decomposition and deformable attention to enhance shadow detail. It introduces innovative loss functions, including **frequency loss**, **brightness-chromaticity loss**, and **alignment loss**, to improve shadow removal. Experimental results on the **AISTD** and **SRD** datasets show that FASR-Net outperforms existing unsupervised and some supervised methods, with ablation studies confirming the importance of each component.
 
 <br>
 
