@@ -27,7 +27,10 @@ We propose **FASR-Net**, an unsupervised Frequency Aware Shadow Removal Network,
 Idea is currently being conceived
 
 <br>
-/* ## Degree Thesis
+
+<!--
+
+## Degree Thesis
 
 - [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). **Best Bachelor Thesis Award** (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
 
@@ -46,4 +49,6 @@ Idea is currently being conceived
 - An IoT Garbage Monitoring System for Effective Garbage Management<br>*First-year course design.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
 
   <br>
-*/
+
+-->
+
