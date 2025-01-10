@@ -16,11 +16,12 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## Research Interests
 
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Cyber-Physical System
-- Applied Machine Learning
+- Target Detection
+- Low-Level Vision
+- Multimodal Technologies
+- Embodied Intelligence
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on practical problems in target detection and low-level vision. I am eager to explore the integration and applications of **Multimodal Technologies** and **Embodied Intelligence**. I believe these advanced technologies have the potential to significantly enhance our understanding and interaction with the world. I am committed to dedicating my efforts to this meaningful pursuit, aiming to contribute to technological progress.
 
 ---
 
