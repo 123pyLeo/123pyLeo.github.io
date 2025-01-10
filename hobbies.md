@@ -17,12 +17,13 @@ title: Hobbies
 <style>
     .third {
         display: flex;
-        justify-content: space-between; /* 可选：在图片之间添加空间 */
+        justify-content: flex-start; /* 左对齐图片 */
     }
     .floatpic {
         width: 200px; /* 调整为你想要的较小宽度 */
         height: 200px; /* 调整为你想要的较小高度 */
         object-fit: cover;
+        margin-right: 10px; /* 可选：在图片之间添加一些间距 */
     }
 </style>
 
