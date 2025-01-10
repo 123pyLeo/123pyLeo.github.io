@@ -4,7 +4,7 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Update: 20th Sep 2024
+> Update: 10th Jan 2025
 
 ## Scholarships
 
@@ -19,11 +19,15 @@ title: Awards
 
 ## Competitions
 
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：Best Technology Award in National Youth Science Innovation Project Competition (Top 1%)
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
-- May 2023：Finalist Award in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
-- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
+Participated as Project Leader/Team Captain in the following competitions:
+
+- National First Prize🏆, RAICOM Robotics Developer Competition [Algorithm Optimization], Aug. 2024.
+- National Second Prize🥈, National College Student Mathematical Modeling Competition, Sep. 2024.
+- National Second Prize🥈, Global Campus AI Algorithm Elite Competition, Dec. 2023.
+- National Third Prize🥉, China College Student Intelligent Robot Creative Competition, Aug. 2024.
+- National Third Prize🥉, Chinese Collegiate Computing Competition, Aug. 2024.
+- National Third Prize🥉, China Robotics and Artificial Intelligence Competition, Aug. 2024.
+- National Third Prize🥉, RAICOM Robotics Developer Competition [Smart Life Creative Design], Aug. 2024.
+- National Third Prize🥉, RAICOM Robotics Developer Competition [AI Art Creativity], Aug. 2024.
 
 <br>
