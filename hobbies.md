@@ -50,4 +50,4 @@ title: Hobbies
     }
 </style>
 
-<br>There is something truly magical about immersing oneself in the worlds of reading and expressing, which significantly uplifts my spirits and invigorates my entire being. To truly master a specific knowledge deeply, one should write about it. If you can convey ideas clearly for others to understand, you have already achieved a level of expertise. I find immense joy in the accomplishment of sharing my thoughts with others, and my aspiration is to become a student's favorite author at the leading universities in my hometown.
+<br>Reading is like a journey of the mind across the wisdom of the world. We learn about different lives and get knowledge from books. Expression comes from what we've read and is like a spark of ideas. It can be as simple as sharing thoughts with friends or writing book reviews and stories. Reading gives depth to our expression, and in turn, expression makes us read more to find the true meaning of books. This cycle helps us grow and think better. 
