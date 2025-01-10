@@ -9,10 +9,20 @@ title: Hobbies
 ## Swimming & Surfing
 
 <div class="third">
-<img src="/images/tr1.jpg" class="floatpic" width="360" height="360">
-<img src="/images/tr2.jpg" class="floatpic" width="360" height="360">
-<img src="/images/tr3.jpg" class="floatpic" width="360" height="360">
+    <img src="/images/tr1.jpg" class="floatpic">
+    <img src="/images/tr2.jpg" class="floatpic">
+    <img src="/images/tr3.jpg" class="floatpic">
 </div>
+
+<style>
+    .floatpic {
+        width: 360px;
+        height: 360px;
+        /* 如果图片比例不同，确保它们不会被拉伸或压缩 */
+        object-fit: cover;
+    }
+</style>
+
 <br>Traveling removes my worries, refreshes my mind, and brings me the courage to tackle any challenges. I thoroughly enjoy the thrill of exploring new places and immersing myself in different cultures. Additionally, I have met many genuine friends during my travels and documented my journeys through photography.
 
 ## Traveling
@@ -23,8 +33,6 @@ title: Hobbies
 <img src="/images/speech3.JPG">
 </div>
 <br>There must be something truly magical about standing on stage to give a fantastic speech, which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite professor** at the [best universities in my hometown].
-
-[best universities in my hometown]:https://www.fzu.edu.cn/
 
 <!--
 ## Past Hobbies
