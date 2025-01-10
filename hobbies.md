@@ -23,7 +23,7 @@ title: Hobbies
         width: 200px; /* 调整为你想要的较小宽度 */
         height: 200px; /* 调整为你想要的较小高度 */
         object-fit: cover;
-        margin-right: 10px; /* 可选：在图片之间添加一些间距 */
+        margin-right: 1px; /* 可选：在图片之间添加一些间距 */
     }
 </style>
 
@@ -32,10 +32,24 @@ title: Hobbies
 ## Traveling
 
 <div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
+    <img src="/images/ex1.jpg" class="floatpic">
+    <img src="/images/ex2.jpg" class="floatpic">
+    <img src="/images/ex3.jpg" class="floatpic">
 </div>
+
+<style>
+    .third {
+        display: flex;
+        justify-content: flex-start; /* 左对齐图片 */
+    }
+    .floatpic {
+        width: 200px; /* 调整为你想要的较小宽度 */
+        height: 200px; /* 调整为你想要的较小高度 */
+        object-fit: cover;
+        margin-right: 1px; /* 可选：在图片之间添加一些间距 */
+    }
+</style>
+
 <br>There must be something truly magical about standing on stage to give a fantastic speech, which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite professor** at the [best universities in my hometown].
 
 <!--
