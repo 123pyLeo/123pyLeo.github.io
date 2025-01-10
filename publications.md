@@ -8,16 +8,20 @@ title: Publications
 
 ## Conference Paper
 
-- [YOLOv8-LSD: Improved YOLOv8 Focused on Small Target Information Extraction for Road Damage Detection](https://ieeexplore.ieee.org/document/10669675)<br>**Hanlin Cai**, Qingwang Wang, Jiangbo Huang, Xin Qu, Gao Ju, Hua Wu<br>2024 2nd International Conference on Pattern Recognition, Machine Vision and Intelligent Algorithms (PRMVIA).<br>Changsha, China. May, 2024.
+- [YOLOv8-LSD: Improved YOLOv8 Focused on Small Target Information Extraction for Road Damage Detection](https://ieeexplore.ieee.org/document/10669675)<br>**Tao Lin**, Qingwang Wang~, Jiangbo Huang, Xin Qu, Gao Ju, Hua Wu<br>2024 2nd International Conference on Pattern Recognition, Machine Vision and Intelligent Algorithms (PRMVIA).<br>Changsha, China. May, 2024.
   <br>
 
 ---
 
-## Ongoing Project
+## under submission
 
-- Intelligent Communication Systems for Internet of Everything (Supervised by [Prof. Özgür Akan](https://www.eng.cam.ac.uk/profiles/oba21))
+- FASR-Net: Unsupervised Shadow Removal Leveraging Inherent Frequency Priors
 
-To match the ubiquitous connectivity and heterogeneous networking characteristics of the universe, IoE also integrates new IoXs into its framework. **Internet of Nano Things (IoNT)**, for example, is poised to increase the resolution of cyber-physical interfaces and bring connectivity into uncharted territories, e.g., inside the human body, with the networks of smart biological agents. **Internet of People and Senses (IoPS)**, as another example, refers to the conceptual transfer of information and even skills between humans besides the nonverbal communication of senses, e.g., olfaction and gustation. We aim to design and implement new intelligent communication techniques for the **Internet of Everything**.
+To address the challenges posed by shadows in various applications, we introduce **FASR-Net**, an unsupervised Frequency Aware Shadow Removal Network. Existing unsupervised methods have limitations, but FASR-Net leverages the inherent frequency characteristics of shadow regions to overcome these challenges.
+
+**Wavelet Attention Downsampling Module (WADM)** in FASR-Net integrates wavelet-based image decomposition and deformable attention. This module breaks down images into frequency components, enhancing shadow details in specific bands. In addition, the network introduces several innovative loss functions: the **frequency loss** captures image component details, the **brightness-chromaticity loss** references the chromaticity of shadow-free regions, and the **alignment loss** ensures smooth transitions between shadowed and shadow-free areas.
+
+We validate the effectiveness of FASR-Net through extensive experimental results on the **AISTD** and **SRD** datasets, demonstrating superior shadow removal performance compared to existing methods. Notably, it outperforms previous unsupervised methods and even some supervised ones in certain metrics. Ablation studies further confirm the critical role of each network component.
 
 <br>
 
