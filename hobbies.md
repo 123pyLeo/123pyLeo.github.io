@@ -51,13 +51,3 @@ title: Hobbies
 </style>
 
 <br>There is something truly magical about immersing oneself in the worlds of reading and expressing, which significantly uplifts my spirits and invigorates my entire being. To truly master a specific knowledge deeply, one should write about it. If you can convey ideas clearly for others to understand, you have already achieved a level of expertise. I find immense joy in the accomplishment of sharing my thoughts with others, and my aspiration is to become a student's favorite author at the leading universities in my hometown.
-
-<!--
-## Past Hobbies
-
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
-
-## My Cat
-
-She is my love. Her name is Qbao (Q宝).
--->
