@@ -26,13 +26,12 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-- **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
-
+- **September 2024**: Achieved the National Second Prize 🥈 in the National College Student Mathematical Modeling Competition.
+- **August 2024: **Won the National First Prize 🥇 in the RAICOM Robotics Developer Competition [Algorithm Optimization].
+- **August 2024: **Secured 3rd Place in the iFLYTEK AI Algorithm Competition 2024 [Large Model Image Style Transfer Challenge], with a prize of 500 CNY.
+- **December 2023: **As an undergraduate student, I participated in the Young Scientists Conference of the Chinese Society of Image and Graphics for the first time and gained a lot.
+- **December 2023: **Awarded the National Second Prize 🥈 in the Global Campus AI Algorithm Elite Competition.
+- **August 2023：**Joined the Intelligent Perception and Computing Laboratory, advised by Prof. Qingwang Wang.
 <br>
 
 <!--
