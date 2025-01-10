@@ -8,17 +8,20 @@ url: https://lintao.online
 owner:
   name: Tao Lin
   avatar: jinshan.jpg
-  # bio: Two roads diverged in woods, I took the one less traveled by.
+  bio: A passionate lover of life.
   email: hanlin.cai@ieee.org
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  location         : "China"
+  employer         : "Kunming University of Science and Technology"
+  email            : "leo040102@gmail.com" 
+  #cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
+  #twitter: lancecai2002
   github: 123pyLeo
-  linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  bilibili: 594030035
+  #linkedin: hanlincai
+  #scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+  #bilibili: 594030035
   researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  zhihu: https://www.zhihu.com/people/chlire
+  #zhihu: https://www.zhihu.com/people/chlire
   # facebook: caihanlin2002
   # instagram: lancecai2002
   # lastfm:
