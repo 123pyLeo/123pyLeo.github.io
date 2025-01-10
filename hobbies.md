@@ -6,7 +6,7 @@ title: Hobbies
 
 # Hobbies
 
-## Swimming & Surfing
+## Traveling
 
 <div class="third">
     <img src="/images/tr1.jpg" class="floatpic">
@@ -29,7 +29,7 @@ title: Hobbies
 
 <br>Traveling removes my worries, refreshes my mind, and brings me the courage to tackle any challenges. I thoroughly enjoy the thrill of exploring new places and immersing myself in different cultures. Additionally, I have met many genuine friends during my travels and documented my journeys through photography.
 
-## Traveling
+## Reading&Expressing
 
 <div class="third">
     <img src="/images/ex1.png" class="floatpic">
@@ -50,7 +50,7 @@ title: Hobbies
     }
 </style>
 
-<br>There must be something truly magical about standing on stage to give a fantastic speech, which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite professor** at the [best universities in my hometown].
+<br>There is something truly magical about immersing oneself in the worlds of reading and expressing, which significantly uplifts my spirits and invigorates my entire being. To truly master a specific knowledge deeply, one should write about it. If you can convey ideas clearly for others to understand, you have already achieved a level of expertise. I find immense joy in the accomplishment of sharing my thoughts with others, and my aspiration is to become a student's favorite author at the leading universities in my hometown.
 
 <!--
 ## Past Hobbies
