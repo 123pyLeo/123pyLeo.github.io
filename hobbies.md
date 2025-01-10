@@ -9,9 +9,9 @@ title: Hobbies
 ## Swimming & Surfing
 
 <div class="third">
-<img src="/images/swimming2.JPG">
-<img src="/images/swimming.JPG">
-<img src="/images/surfing1.JPG">
+<img src="/images/tr1.jpg">
+<img src="/images/tr2.jpg">
+<img src="/images/tr3.jpg">
 </div>
 <br>Traveling removes my worries, refreshes my mind, and brings me the courage to tackle any challenges. I thoroughly enjoy the thrill of exploring new places and immersing myself in different cultures. Additionally, I have met many genuine friends during my travels and documented my journeys through photography.
 
