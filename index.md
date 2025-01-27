@@ -8,7 +8,7 @@ layout: page
 
 Here is **Tao Lin (Leo, 林涛)**.
 
-I am an undergraduate student majoring in Artificial Intelligence at Kunming University of Science and Technology (KUST), advised by [Prof. Qingwang Wang](https://xzy.kust.edu.cn/info/1127/2815.htm) in the field of Computer Vision (CV), within the Intelligent Perception and Computing Laboratory. My current research interests include target detection and low-level vision. Moving forward, I am eager to explore and engage with multimodal technologies and embodied intelligence.
+I am an undergraduate student majoring in Artificial Intelligence at Kunming University of Science and Technology (KUST), advised by [Prof. Qingwang Wang](https://xzy.kust.edu.cn/info/1127/2815.htm) in the field of Computer Vision (CV), within the Intelligent Perception and Computing Laboratory. My current research interests include target detection and low-level vision. Moving forward, I am eager to explore and engage with multimodal technologies and embodied AI.
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - lintao012 [at] 163.com
 
@@ -19,9 +19,9 @@ If you are interested in any aspect of me, I am always open to discussions and c
 - Target Detection
 - Low-Level Vision
 - Multimodal Technologies
-- Embodied Intelligence
+- Embodied AI
 
-My current research focuses on practical problems in target detection and low-level vision. I am eager to explore the integration and applications of **Multimodal Technologies** and **Embodied Intelligence**. I believe these advanced technologies have the potential to significantly enhance our understanding and interaction with the world. I am committed to dedicating my efforts to this meaningful pursuit, aiming to contribute to technological progress.
+My current research focuses on practical problems in target detection and low-level vision. I am eager to explore the integration and applications of **Multimodal Technologies** and **Embodied AI**. I believe these advanced technologies have the potential to significantly enhance our understanding and interaction with the world. I am committed to dedicating my efforts to this meaningful pursuit, aiming to contribute to technological progress.
 
 ---
 
