@@ -14,14 +14,6 @@ title: Publications
 
   FASR-Net, an innovative unsupervised network for shadow removal that leverages the frequency characteristics of shadow regions. Key features include a Wavelet Attention Downsampling Module (WADM) for enhanced shadow detail and novel loss functions—frequency loss, brightness-chromaticity loss, and alignment loss—to boost performance. Our experiments on the AISTD and SRD datasets demonstrate that FASR-Net surpasses many existing unsupervised and supervised methods.
   <br>
-<!--
-## Under submission
-
-- **FASR-Net: Unsupervised Shadow Removal Leveraging Inherent Frequency Priors**
-
-  FASR-Net, an innovative unsupervised network for shadow removal that leverages the frequency characteristics of shadow regions. Key features include a Wavelet Attention Downsampling Module (WADM) for enhanced shadow detail and novel loss functions—frequency loss, brightness-chromaticity loss, and alignment loss—to boost performance. Our experiments on the AISTD and SRD datasets demonstrate that FASR-Net surpasses many existing unsupervised and supervised methods.
-  <br>
--->
 
 ---
 
@@ -33,6 +25,13 @@ title: Publications
 
 <!--
 
+## Under submission
+
+- **FASR-Net: Unsupervised Shadow Removal Leveraging Inherent Frequency Priors**
+
+  FASR-Net, an innovative unsupervised network for shadow removal that leverages the frequency characteristics of shadow regions. Key features include a Wavelet Attention Downsampling Module (WADM) for enhanced shadow detail and novel loss functions—frequency loss, brightness-chromaticity loss, and alignment loss—to boost performance. Our experiments on the AISTD and SRD datasets demonstrate that FASR-Net surpasses many existing unsupervised and supervised methods.
+  <br>
+  
 ## Degree Thesis
 
 - [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). **Best Bachelor Thesis Award** (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
