@@ -25,7 +25,7 @@ title: Publications
 
 ---
 
-## Ongoing Project
+## 💡 Ongoing Project
 
 - The idea is currently being conceived and will be updated soon.
 
