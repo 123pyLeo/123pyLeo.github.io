@@ -25,7 +25,7 @@ My current research focuses on practical problems in target detection and low-le
 
 ---
 
-## 💼 Work & Research Experience
+## 💼 Research Experience
 
 - *2023.07 - 2023.08*, NLP Algorithm Intern, Westlake Xincheng (Hangzhou) Technology Co., Ltd.
 - *2023.09 - Now*, Research Intern, The Intelligent Perception and Computing Laboratory, Kunming University of Science and Technology.
