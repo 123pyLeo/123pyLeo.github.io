@@ -8,7 +8,8 @@ title: Publications
 
 ## 📜 Conference Paper
 
-- ![示例图片]([https://lintao.online/images/yolov8-improved.jpg]) | [**YOLOv8-LSD: Improved YOLOv8 Focused on Small Target Information Extraction for Road Damage Detection**](https://ieeexplore.ieee.org/document/10669675)<br>**Tao Lin**, Qingwang Wang~, Jiangbo Huang, Xin Qu, Gao Ju, Hua Wu<br>2024 2nd International Conference on Pattern Recognition, Machine Vision and Intelligent Algorithms (PRMVIA).<br>Changsha, China. May, 2024.
+| ![示例图片](https://raw.githubusercontent.com/123pyLeo/123pyLeo.github.io/refs/heads/main/images/yolov8-improved.jpg) | [**YOLOv8-LSD: Improved YOLOv8 Focused on Small Target Information Extraction for Road Damage Detection**](https://ieeexplore.ieee.org/document/10669675)<br>**Tao Lin**, Qingwang Wang, Jiangbo Huang, Xin Qu, Gao Ju, Hua Wu<br>2024 2nd International Conference on Pattern Recognition, Machine Vision and Intelligent Algorithms (PRMVIA).<br>Changsha, China. May, 2024. |
+| :---: | --- |
 
 - **FASR-Net: Unsupervised Shadow Removal Leveraging Inherent Frequency Priors** (under review, CCF B)
 
