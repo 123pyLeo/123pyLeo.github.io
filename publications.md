@@ -10,7 +10,7 @@ title: Publications
 
 ![示例图片](https://raw.githubusercontent.com/123pyLeo/123pyLeo.github.io/refs/heads/main/images/yolov8-improved.jpg)
 
-[**YOLOv8-LSD: Improved YOLOv8 Focused on Small Target Information Extraction for Road Damage Detection**](https://ieeexplore.ieee.org/document/10669675)
+- [**YOLOv8-LSD: Improved YOLOv8 Focused on Small Target Information Extraction for Road Damage Detection**](https://ieeexplore.ieee.org/document/10669675)
 
 **Tao Lin**, Qingwang Wang, Jiangbo Huang, Xin Qu, Gao Ju, Hua Wu
 
