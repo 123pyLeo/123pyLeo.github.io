@@ -5,13 +5,15 @@ layout: page
 # About Me
 
 <img src="https://lintao.online/zhengmian.jpg" class="floatpic" width="360" height="480">
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Flintao.online&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)[![点击率](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Flintao.online&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 Here is **Tao Lin (Leo, 林涛)**.
 
 I am an undergraduate student majoring in Artificial Intelligence at Kunming University of Science and Technology (KUST), advised by [Prof. Qingwang Wang](https://xzy.kust.edu.cn/info/1127/2815.htm) in the field of Computer Vision (CV), within the Intelligent Perception and Computing Laboratory. My current research interests include target detection and low-level vision. Moving forward, I am eager to explore and engage with multimodal technologies and embodied AI.
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - lintao012 [at] 163.com
+
+[![Page Viewers](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Flintao.online&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+- [Followers] [![](https://img.shields.io/github/followers/123pyLeo?style=social&label=Follow)](https://github.com/123pyLeo?tab=followers)
 
 ---
 
