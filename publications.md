@@ -15,9 +15,9 @@ title: Publications
 
 ## Under submission
 
-- **FASR-Net: Unsupervised Shadow Removal Leveraging Inherent Frequency Priors**
+- ***FASR-Net: Unsupervised Shadow Removal Leveraging Inherent Frequency Priors***
 
-- We propose **FASR-Net**, an unsupervised Frequency Aware Shadow Removal Network, to tackle the challenges of shadow removal by exploiting the frequency characteristics of shadow regions. FASR-Net features a **Wavelet Attention Downsampling Module (WADM)** that integrates wavelet-based image decomposition and deformable attention to enhance shadow detail. It introduces innovative loss functions, including **frequency loss**, **brightness-chromaticity loss**, and **alignment loss**, to improve shadow removal. Experimental results on the **AISTD** and **SRD** datasets show that FASR-Net outperforms existing unsupervised and some supervised methods, with ablation studies confirming the importance of each component.
+  We propose **FASR-Net**, an unsupervised Frequency Aware Shadow Removal Network, to tackle the challenges of shadow removal by exploiting the frequency characteristics of shadow regions. FASR-Net features a **Wavelet Attention Downsampling Module (WADM)** that integrates wavelet-based image decomposition and deformable attention to enhance shadow detail. It introduces innovative loss functions, including **frequency loss**, **brightness-chromaticity loss**, and **alignment loss**, to improve shadow removal. Experimental results on the **AISTD** and **SRD** datasets show that FASR-Net outperforms existing unsupervised and some supervised methods, with ablation studies confirming the importance of each component.
 <br>
 
 ---
