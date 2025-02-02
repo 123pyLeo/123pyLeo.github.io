@@ -8,23 +8,23 @@ title: Publications
 
 ## Conference Paper
 
-- [YOLOv8-LSD: Improved YOLOv8 Focused on Small Target Information Extraction for Road Damage Detection](https://ieeexplore.ieee.org/document/10669675)<br>**Tao Lin**, Qingwang Wang~, Jiangbo Huang, Xin Qu, Gao Ju, Hua Wu<br>2024 2nd International Conference on Pattern Recognition, Machine Vision and Intelligent Algorithms (PRMVIA).<br>Changsha, China. May, 2024.
+- [**YOLOv8-LSD: Improved YOLOv8 Focused on Small Target Information Extraction for Road Damage Detection**](https://ieeexplore.ieee.org/document/10669675)<br>**Tao Lin**, Qingwang Wang~, Jiangbo Huang, Xin Qu, Gao Ju, Hua Wu<br>2024 2nd International Conference on Pattern Recognition, Machine Vision and Intelligent Algorithms (PRMVIA).<br>Changsha, China. May, 2024.
   <br>
 
 ---
 
 ## Under submission
 
-- FASR-Net: Unsupervised Shadow Removal Leveraging Inherent Frequency Priors
+- **FASR-Net: Unsupervised Shadow Removal Leveraging Inherent Frequency Priors**
 
-We propose **FASR-Net**, an unsupervised Frequency Aware Shadow Removal Network, to tackle the challenges of shadow removal by exploiting the frequency characteristics of shadow regions. FASR-Net features a **Wavelet Attention Downsampling Module (WADM)** that integrates wavelet-based image decomposition and deformable attention to enhance shadow detail. It introduces innovative loss functions, including **frequency loss**, **brightness-chromaticity loss**, and **alignment loss**, to improve shadow removal. Experimental results on the **AISTD** and **SRD** datasets show that FASR-Net outperforms existing unsupervised and some supervised methods, with ablation studies confirming the importance of each component.
+- We propose **FASR-Net**, an unsupervised Frequency Aware Shadow Removal Network, to tackle the challenges of shadow removal by exploiting the frequency characteristics of shadow regions. FASR-Net features a **Wavelet Attention Downsampling Module (WADM)** that integrates wavelet-based image decomposition and deformable attention to enhance shadow detail. It introduces innovative loss functions, including **frequency loss**, **brightness-chromaticity loss**, and **alignment loss**, to improve shadow removal. Experimental results on the **AISTD** and **SRD** datasets show that FASR-Net outperforms existing unsupervised and some supervised methods, with ablation studies confirming the importance of each component.
 <br>
 
 ---
 
 ## Ongoing Project
 
-Idea is currently being conceived
+- ⭐The idea is currently being conceived and will be updated soon.
 
 <br>
 
