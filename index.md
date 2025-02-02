@@ -12,7 +12,7 @@ I am an undergraduate student majoring in Artificial Intelligence at Kunming Uni
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - lintao012 [at] 163.com
 
-[![Website Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Flintao.online&count_bg=%233DA6C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Website%20Views&edge_flat=false)](https://hits.seeyoufarm.com) [![Follow](https://img.shields.io/github/followers/123pyLeo?style=social&label=Follow)](https://github.com/123pyLeo?tab=followers) [![Stars](https://img.shields.io/github/stars/123pyLeo?style=social)](https://github.com/123pyLeo) [![Static Badge](https://img.shields.io/badge/Just%20contact%20me-WeChat-green?labelColor=gray)](https://123pyLeo.github.io/images/my_wechat.jpg)
+[![Static Badge](https://img.shields.io/badge/Just%20contact%20me-WeChat-green?labelColor=gray)](https://123pyLeo.github.io/images/my_wechat.jpg) [![Website Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Flintao.online&count_bg=%233DA6C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Website%20Views&edge_flat=false)](https://hits.seeyoufarm.com) [![Follow](https://img.shields.io/github/followers/123pyLeo?style=social&label=Follow)](https://github.com/123pyLeo?tab=followers) [![Stars](https://img.shields.io/github/stars/123pyLeo?style=social)](https://github.com/123pyLeo) 
 
 ---
 
