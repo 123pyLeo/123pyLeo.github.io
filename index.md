@@ -14,7 +14,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ---
 
-## Research Interests
+## 🔍 Research Interests
 
 - Target Detection
 - Low-Level Vision
@@ -25,7 +25,14 @@ My current research focuses on practical problems in target detection and low-le
 
 ---
 
-## News and Updates
+## 💼 Work & Research Experience
+
+- *2023.07 - 2023.08*, NLP Algorithm Intern, Westlake Xincheng (Hangzhou) Technology Co., Ltd.
+- *2023.09 - Now*, Research Intern, The Intelligent Perception and Computing Laboratory, Kunming University of Science and Technology.
+
+---
+
+## 📰 News and Updates
 
 - **September 2024**: Achieved the National Second Prize 🥈 in the National College Student Mathematical Modeling Competition.
 - August 2024: Won the National First Prize 🥇 in the RAICOM Robotics Developer Competition [Algorithm Optimization].
