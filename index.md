@@ -29,7 +29,7 @@ My current research focuses on practical problems in target detection and low-le
 
 ## 💼 Research Experience
 
-- 2024.02 - Now, Algorithm Intern, CHIMER AI.
+- 2025.02 - Now, Algorithm Intern, CHIMER AI.
 - 2023.09 - Now, Research Intern, The Intelligent Perception and Computing Laboratory, Kunming University of Science and Technology.
 - 2023.07 - 2023.08, Algorithm Intern, Westlake Xincheng (Hangzhou) Technology Co., Ltd.
 
