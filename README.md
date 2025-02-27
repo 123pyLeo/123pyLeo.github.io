@@ -1,7 +1,7 @@
 # lintao.online
 
 Here is **Tao Lin (Leo, 林涛)**. This is the repository for my personal website.
-<--
+<!--
 ## Update and News
 
 - **Sep 2024:** This Github Page has reached **500+ Stars**🌟 Thank you so much!
