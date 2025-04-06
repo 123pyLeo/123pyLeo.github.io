@@ -4,8 +4,7 @@ permalink: /blogs/qwen_sft_blog/index.html
 title: Qwen模型微调之SFT
 ---
 
-----
-#### 数据准备
+## 数据准备
 
 在SFT中，数据质量直接决定了微调效果。我们需要准备高质量的对话数据，包括系统提示、用户输入和期望的助手回复。在这个例子中，我使用了一个简单但是故意出错的数学问题作为prompt，用于演示模型的学习过程：
 
@@ -26,8 +25,7 @@ messages = [
 ```
 <br>
 
-----
-#### 模型输入输出格式
+## 模型输入输出格式
 
 Qwen模型使用特殊的token来标记对话的开始和结束：
 
@@ -46,8 +44,8 @@ torch.nn.CrossEntropyLoss(weight=None, size_average=None, ignore_index=-100, red
 1. 避免对填充位置计算损失
 2. 确保模型只关注有意义的输出部分
 <br>
-----
-#### 模型训练过程
+
+## 模型训练过程
 
 在训练过程中，有几个关键步骤：
 
@@ -91,8 +89,7 @@ optimizer.step()
 ```
 <br>
 
-----
-#### 一些思考
+## 一些思考
 
 1. 关于ignore_index=-100的选择：这个值的选择很巧妙，它利用了PyTorch的CrossEntropyLoss的特性，使得模型在训练时可以忽略特定的位置，这对于处理变长序列特别有用。
 
@@ -103,10 +100,10 @@ optimizer.step()
 这些细节虽然看起来很小，但对于模型的训练效果却有着重要的影响。在实现过程中，这些细节的处理往往决定了模型的最终表现。
 <br>
 
-----
-#### 实验结果
+## 实验结果
 
 当然，SFT微调的效果如图所示：
+
 <center>
 <img src="qwen.assets/sft.jpg" alt="SFT微调的效果" width="60%">
 </center>
