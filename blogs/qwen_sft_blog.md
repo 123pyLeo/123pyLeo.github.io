@@ -5,9 +5,10 @@ title: Qwen模型微调之SFT
 ---
 
 ## Qwen模型微调之SFT
+<br>
 
 SFT（Supervised Fine-Tuning）是大型语言模型微调中最基础和常用的方法之一。通过使用高质量的监督数据对模型进行微调，可以让模型更好地适应特定任务或领域。今天在研究Qwen模型SFT微调过程中发现了几个有意思的点。
-<br>
+<br><br>
 
 ### 数据准备
 在SFT中，数据质量直接决定了微调效果。我们需要准备高质量的对话数据，包括系统提示、用户输入和期望的助手回复。在这个例子中，我使用了一个简单但是故意出错的数学问题作为prompt，用于演示模型的学习过程：
@@ -50,6 +51,7 @@ torch.nn.CrossEntropyLoss(weight=None, size_average=None, ignore_index=-100, red
 在训练过程中，有几个关键步骤：
 
 1. 首先将模型设置为评估模式：
+
 ```python
 model.eval() #pytorch train/eval？ 会影响dropout层/layer norm层
 ```
@@ -60,6 +62,7 @@ model.eval() #pytorch train/eval？ 会影响dropout层/layer norm层
 - 模型的参数不会更新
 
 2. 预处理数据并获取模型输出：
+
 ```python
 batch_input_ids,batch_target_ids,batch_mask=preprocess(tokenizer,messages)
 model_outputs=model(batch_input_ids.to(device))
@@ -67,6 +70,7 @@ model_outputs=model(batch_input_ids.to(device))
 ```
 
 3. 准备损失计算：
+
 ```python
 logits=model_outputs.logits[:,:-1,:]
 targets=batch_target_ids[:,1:].to(device)
@@ -80,6 +84,7 @@ print('targets:',targets.shape) # 拟合目标
 - 这样确保了每个位置的预测都对应正确的目标
 
 4. 计算损失并更新模型：
+
 ```python
 loss_fn=CrossEntropyLoss()
 loss=loss_fn(logits.reshape(-1,logits.size(2)),targets.reshape(-1))
@@ -90,7 +95,6 @@ optimizer.zero_grad()
 loss.backward()
 optimizer.step()
 ```
-<br>
 
 ### 一些思考
 1. 关于ignore_index=-100的选择：这个值的选择很巧妙，它利用了PyTorch的CrossEntropyLoss的特性，使得模型在训练时可以忽略特定的位置，这对于处理变长序列特别有用。
