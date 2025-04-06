@@ -8,7 +8,7 @@ title: Blogs
 
 ### 大模型学习
 
-- [2.22-3.1小结](https://lintao.online/blogs/thoughts3.1/)
+- [Qwen模型微调之SFT](https://lintao.online/blogs/qwen_sft_blog/)
 
 ### 杂谈
 
