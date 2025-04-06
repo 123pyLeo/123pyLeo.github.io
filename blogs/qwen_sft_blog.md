@@ -8,7 +8,7 @@ title: Qwen模型微调之SFT
 <br>
 
 SFT（Supervised Fine-Tuning）是大型语言模型微调中最基础和常用的方法之一。通过使用高质量的监督数据对模型进行微调，可以让模型更好地适应特定任务或领域。今天在研究Qwen模型SFT微调过程中发现了几个有意思的点。
-<br><br>
+<br>
 
 ### 数据准备
 <br>
@@ -31,7 +31,7 @@ messages = [
     ]
 ]
 ```
-<br><br>
+<br>
 
 ### 模型输入输出格式
 <br>
@@ -58,7 +58,7 @@ torch.nn.CrossEntropyLoss(weight=None, size_average=None, ignore_index=-100, red
 
 - 避免对填充位置计算损失  
 - 确保模型只关注有意义的输出部分
-<br><br>
+<br>
 
 ### 模型训练过程
 <br>
@@ -116,7 +116,7 @@ optimizer.zero_grad()
 loss.backward()
 optimizer.step()
 ```
-<br><br>
+<br>
 
 ### 一些思考
 <br>
@@ -131,7 +131,7 @@ optimizer.step()
 <br>
 
 这些细节虽然看起来很小，但对于模型的训练效果却有着重要的影响。在实现过程中，这些细节的处理往往决定了模型的最终表现。
-<br><br>
+<br>
 
 ### 实验结果
 <br>
