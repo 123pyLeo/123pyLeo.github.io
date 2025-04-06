@@ -25,8 +25,8 @@ messages = [
 ]
 ```
 <br>
-----
 
+----
 #### 模型输入输出格式
 
 Qwen模型使用特殊的token来标记对话的开始和结束：
@@ -90,8 +90,8 @@ loss.backward()
 optimizer.step()
 ```
 <br>
-----
 
+----
 #### 一些思考
 
 1. 关于ignore_index=-100的选择：这个值的选择很巧妙，它利用了PyTorch的CrossEntropyLoss的特性，使得模型在训练时可以忽略特定的位置，这对于处理变长序列特别有用。
