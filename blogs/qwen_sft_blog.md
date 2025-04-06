@@ -4,7 +4,7 @@ permalink: /blogs/qwen_sft_blog/index.html
 title: Qwen模型微调之SFT
 ---
 
-# Qwen模型微调之SFT
+## Qwen模型微调之SFT
 
 SFT（Supervised Fine-Tuning）是大型语言模型微调中最基础和常用的方法之一。通过使用高质量的监督数据对模型进行微调，可以让模型更好地适应特定任务或领域。今天在研究Qwen模型SFT微调过程中发现了几个有意思的点。
 <br>
@@ -110,6 +110,6 @@ optimizer.step()
 当然，SFT微调的效果如图所示：
 
 <center>
-<img src="qwen.assets/sft.jpg" alt="SFT微调的效果" width="60%">
+<img src="blogs/qwen.assets/sft.jpg" alt="SFT微调的效果" width="60%">
 </center>
 <br>
