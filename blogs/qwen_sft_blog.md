@@ -96,5 +96,5 @@ optimizer.step()
 这些细节虽然看起来很小，但对于模型的训练效果却有着重要的影响。在实现过程中，这些细节的处理往往决定了模型的最终表现。
 
 当然，SFT微调的效果如图所示：<br>
-<img src="qwen/sft.jpg" alt="SFT微调的效果" width="100%"> 
+<img src="qwen/sft.jpg" alt="SFT微调的效果" width="60%"> 
 
