@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blogs/qwen_stf_blog/index.html
+permalink: /blogs/qwen_sft_blog/index.html
 title: Qwen模型微调之SFT
 ---
 
