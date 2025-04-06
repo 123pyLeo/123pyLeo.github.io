@@ -109,6 +109,6 @@ optimizer.step()
 
 当然，SFT微调的效果如图所示：
 <center>
-<img src="qwen/sft.jpg" alt="SFT微调的效果" width="60%">
+<img src="qwen.assets/sft.jpg" alt="SFT微调的效果" width="60%">
 </center>
 <br>
