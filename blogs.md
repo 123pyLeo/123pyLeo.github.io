@@ -6,7 +6,11 @@ title: Blogs
 
 ## Chinese Blogs
 
-### 2025
+### 大模型学习
+
+- [2.22-3.1小结](https://lintao.online/blogs/thoughts3.1/)
+
+### 杂谈
 
 - [2.22-3.1小结](https://lintao.online/blogs/thoughts3.1/)
 
