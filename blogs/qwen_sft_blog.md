@@ -25,7 +25,6 @@ messages = [
 ]
 ```
 <br>
-
 ----
 #### 模型输入输出格式
 
@@ -46,7 +45,6 @@ torch.nn.CrossEntropyLoss(weight=None, size_average=None, ignore_index=-100, red
 1. 避免对填充位置计算损失
 2. 确保模型只关注有意义的输出部分
 <br>
-
 ----
 #### 模型训练过程
 
@@ -91,7 +89,6 @@ loss.backward()
 optimizer.step()
 ```
 <br>
-
 ----
 #### 一些思考
 
@@ -103,7 +100,6 @@ optimizer.step()
 
 这些细节虽然看起来很小，但对于模型的训练效果却有着重要的影响。在实现过程中，这些细节的处理往往决定了模型的最终表现。
 <br>
-
 ----
 #### 实验结果
 
