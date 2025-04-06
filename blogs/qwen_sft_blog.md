@@ -4,9 +4,6 @@ permalink: /blogs/qwen_sft/index.html
 title: Qwen模型微调之SFT
 ---
 
-> 技术细节决定成败，魔鬼藏在细节中。
-<br>
-
 ----
 #### 数据准备
 
