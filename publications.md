@@ -10,7 +10,7 @@ title: Publications
 
 ![示例图片](https://lintao.online/images/yolov8-improved.jpg)
 
-- **YOLOv8-LSD: Improved YOLOv8 Focused on Small Target Information Extraction for Road Damage Detection**  [[paper]](https://ieeexplore.ieee.org/document/10669675)<br>**Tao Lin**, Qingwang Wang, Jiangbo Huang, Xin Qu, Gao Ju, Hua Wu<br>2024 2nd International Conference on Pattern Recognition, Machine Vision and Intelligent Algorithms (PRMVIA).<br>Changsha, China. May, 2024. 
+- **YOLOv8-LSD: Improved YOLOv8 Focused on Small Target Information Extraction for Road Damage Detection**  [[paper]](https://ieeexplore.ieee.org/document/10669675)<br>**Tao Lin**, Qingwang Wang~, Jiangbo Huang, Xin Qu, Gao Ju, Hua Wu<br>2024 2nd International Conference on Pattern Recognition, Machine Vision and Intelligent Algorithms (PRMVIA).<br>Changsha, China. May, 2024. 
 
 ### Under submission
 
@@ -34,7 +34,7 @@ title: Publications
 
 ## Under submission
 
-- [**FASR-Net: Unsupervised Shadow Removal Leveraging Inherent Frequency Priors**](https://arxiv.org/abs/2504.05779)<br>**Tao Lin**, Qingwang Wang, Qiwei Liang, Minghua Tang, Yuxuan Sun<br>
+- [**FASR-Net: Unsupervised Shadow Removal Leveraging Inherent Frequency Priors**](https://arxiv.org/abs/2504.05779)<br>**Tao Lin**, Qingwang Wang~, Qiwei Liang, Minghua Tang, Yuxuan Sun<br>
 
   FASR-Net, an innovative unsupervised network for shadow removal that leverages the frequency characteristics of shadow regions. Key features include a Wavelet Attention Downsampling Module (WADM) for enhanced shadow detail and novel loss functions—frequency loss, brightness-chromaticity loss, and alignment loss—to boost performance. Our experiments on the AISTD and SRD datasets demonstrate that FASR-Net surpasses many existing unsupervised and supervised methods.
   <br>
