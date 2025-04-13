@@ -17,7 +17,7 @@ title: Publications
 ![示例图片](https://lintao.online/images/FASR.png)
 
 - **FASR-Net: Unsupervised Shadow Removal Leveraging Inherent Frequency Priors**  [[paper]](https://arxiv.org/abs/2504.05779)  [[code]](https://github.com/123pyLeo/FASR-Net) 
-<br>**Tao Lin**, Qingwang Wang, Qiwei Liang, Minghua Tang, Yuxuan Sun<br>
+<br>**Tao Lin**, Qingwang Wang~, Qiwei Liang, Minghua Tang, Yuxuan Sun<br>
 
   FASR-Net, an innovative unsupervised network for shadow removal that leverages the frequency characteristics of shadow regions. Key features include a Wavelet Attention Downsampling Module (WADM) for enhanced shadow detail and novel loss functions—frequency loss, brightness-chromaticity loss, and alignment loss—to boost performance. Our experiments on the AISTD and SRD datasets demonstrate that FASR-Net surpasses many existing unsupervised and supervised methods.
   <br>
