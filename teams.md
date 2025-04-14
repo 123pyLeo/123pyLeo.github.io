@@ -36,6 +36,7 @@ During my undergraduate years, together with Qiwei Liang and Yihao Hu, I co-foun
 ## Some moments
 
 > Our group website: [WeShare官网](https://weshare.xin/)
+
 > Our logo:
 ![WeShare团队Logo](https://lintao.online/images/teams/cover1.jpg)
 
