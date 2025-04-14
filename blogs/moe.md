@@ -36,6 +36,7 @@ class MoELayer(nn.Module):
         return output
 ```
 <br>
+
 ### 实现细节说明
 #### expert_outputs 的张量维度变换
 - 各专家模型 `expert(x)` 输出形状：`(batch_size, out_features)`
