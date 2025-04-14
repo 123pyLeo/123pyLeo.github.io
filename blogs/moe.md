@@ -6,7 +6,7 @@ mathjax: true
 ---
 
 ----
-## 1. 基础模型架构
+### 1. 基础模型架构
 首先是一个简单的 linear 专家模型实现：
 ```python
 import torch
@@ -35,13 +35,13 @@ class MoELayer(nn.Module):
         return output
 ```
 
-### 实现细节说明
-#### expert_outputs 的张量维度变换
+#### 实现细节说明
+##### expert_outputs 的张量维度变换
 - 各专家模型 `expert(x)` 输出形状：`(batch_size, out_features)`
 - 使用 `torch.stack` 沿第 1 维堆叠 `num_experts` 个专家输出
 - 最终得到形状：`(batch_size, num_experts, out_features)`
 
-#### torch.bmm 运算过程
+##### torch.bmm 运算过程
 - `gate_score.unsqueeze(1)` 形状：`(batch_size, 1, num_experts)`
 - `expert_outputs` 形状：`(batch_size, num_experts, out_features)`
 - `torch.bmm` 要求：输入为 `(batch_size, n, m)` 和 `(batch_size, m, p)` 的三维张量
@@ -49,9 +49,9 @@ class MoELayer(nn.Module):
 <br>
 
 ----
-## 2. 相关研究进展
+### 2. 相关研究进展
 
-### 2.1 ViMoE
+#### 2.1 ViMoE
 
 这篇文章主要探讨了两个核心问题：
 
@@ -77,7 +77,7 @@ class MoELayer(nn.Module):
 值得进一步探讨的是，目前 top 1 模型损失不连贯，例如在下游任务分割中针对细小边缘区域是否可以吸收其他专家的建议。
 <br>
 
-### 2.2 Soft MoE
+#### 2.2 Soft MoE
 
 主要描述不同特征的加权融合联系。
 
@@ -90,7 +90,7 @@ class MoELayer(nn.Module):
 - 训练时间仍然较长
 <br>
 
-### 2.3 MoE Jetpack
+#### 2.3 MoE Jetpack
 
 创新点：
 1. 检查点回收机制：通过采样部分权重构建专家，确保专家的多样性
@@ -110,7 +110,7 @@ class MoELayer(nn.Module):
 </center>
 <br>
 
-### 2.4 非 Transformer 结构的 MoE 探索
+#### 2.4 非 Transformer 结构的 MoE 探索
 
 在 CNN 中将卷积视为 MoE 层：
 - 生成权重为 0 的直接丢弃
@@ -122,7 +122,7 @@ class MoELayer(nn.Module):
 <br>
 
 ----
-## 3. 总结
+### 3. 总结
 
 MoE 层结构主要分为两种类型：
 1. 通过 router 对专家进行门控选择
