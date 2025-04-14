@@ -85,8 +85,7 @@ class MoELayer(nn.Module):
 主要描述不同特征的加权融合联系。
 
 <center>
-<img src="/blogs/moe.assets/2.jpg" alt="Soft MoE结构图" width="10%">
-<img src="/blogs/moe.assets/3.jpg" alt="Soft MoE性能分析" width="10%">
+<img src="/blogs/moe.assets/2.jpg" alt="Soft MoE结构图" width="30%" style="display: inline-block"> <img src="/blogs/moe.assets/3.jpg" alt="Soft MoE性能分析" width="30%" style="display: inline-block">
 </center>
 
 主要缺点：
