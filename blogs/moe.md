@@ -74,7 +74,7 @@ class MoELayer(nn.Module):
 - 过多则不会带来显著提升
 
 <center>
-<img src="moe/1.jpg" alt="ViMoE架构示意图" width="60%">
+<img src="/blogs/moe.assets/moe/1.jpg" alt="ViMoE架构示意图" width="60%">
 </center>
 
 值得进一步探讨的是，目前 top 1 模型损失不连贯，例如在下游任务分割中针对细小边缘区域是否可以吸收其他专家的建议。
@@ -85,8 +85,8 @@ class MoELayer(nn.Module):
 主要描述不同特征的加权融合联系。
 
 <center>
-<img src="moe/2.jpg" alt="Soft MoE结构图" width="45%">
-<img src="moe/3.jpg" alt="Soft MoE性能分析" width="45%">
+<img src="/blogs/moe.assets/moe/2.jpg" alt="Soft MoE结构图" width="45%">
+<img src="/blogs/moe.assets/moe/3.jpg" alt="Soft MoE性能分析" width="45%">
 </center>
 
 主要缺点：
@@ -100,7 +100,7 @@ class MoELayer(nn.Module):
 1. 检查点回收机制：通过采样部分权重构建专家，确保专家的多样性
 
 <center>
-<img src="moe/4.jpg" alt="检查点回收机制" width="60%">
+<img src="/blogs/moe.assets/moe/4.jpg" alt="检查点回收机制" width="60%">
 </center>
 
 2. 利用交叉注意力机制在各个专家之间分配输入
@@ -110,7 +110,7 @@ class MoELayer(nn.Module):
    - 权重小的进入 light expert
 
 <center>
-<img src="moe/5.jpg" alt="自适应双路径示意图" width="60%">
+<img src="/blogs/moe.assets/moe/5.jpg" alt="自适应双路径示意图" width="60%">
 </center>
 <br>
 
@@ -121,7 +121,7 @@ class MoELayer(nn.Module):
 - 使模型更加轻量化
 
 <center>
-<img src="moe/6.jpg" alt="CNN中的MoE应用" width="60%">
+<img src="/blogs/moe.assets/moe/6.jpg" alt="CNN中的MoE应用" width="60%">
 </center>
 <br>
 
@@ -135,6 +135,6 @@ MoE 层结构主要分为两种类型：
 核心思想始终是"私人订制"。
 
 <center>
-<img src="moe/7.jpg" alt="MoE结构对比" width="60%">
+<img src="/blogs/moe.assets/moe/7.jpg" alt="MoE结构对比" width="60%">
 </center>
 <br>
