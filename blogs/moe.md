@@ -64,7 +64,7 @@ class MoELayer(nn.Module):
    - 作者提出共享专家思路，在保持原有内容的同时引入新特征
 <br>
 
-文章提出了层数与专家数的组合关系：$D={N \choose k}^L$
+文章提出了层数与专家数的组合关系：$D=\begin{pmatrix} N \\ k \end{pmatrix}^L$
 - 组合数量过少会影响模型性能
 - 过多则不会带来显著提升
 
