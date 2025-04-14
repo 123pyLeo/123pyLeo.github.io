@@ -12,7 +12,7 @@ We strive to create a comprehensive competition exchange platform that breaks do
 
 ## OpenIoT Team
 
-During my undergraduate years, together with Qiwei Liang and Yihao Hu, I co-founded a tech group named WeShare. Initially, we took the initiative in establishing the group. Driven by an entrepreneurial spirit in technology, we actively invited more individuals to join our team. As of now, the WeShare team has expanded to include 8 official members.<br>
+During my undergraduate years, together with Qiwei Liang and Yihao Hu, I co-founded a group named WeShare. Initially, we took the initiative in establishing the group. Driven by an entrepreneurial spirit in technology, we actively invited more individuals to join our team. As of now, the WeShare team has expanded to include 8 official members.<br>
 
 ## Team News
 
