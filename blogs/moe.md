@@ -36,15 +36,12 @@ class MoELayer(nn.Module):
         return output
 ```
 <br>
-
 ### 实现细节说明
-
 #### expert_outputs 的张量维度变换
 - 各专家模型 `expert(x)` 输出形状：`(batch_size, out_features)`
 - 使用 `torch.stack` 沿第 1 维堆叠 `num_experts` 个专家输出
 - 最终得到形状：`(batch_size, num_experts, out_features)`
 <br>
-
 #### torch.bmm 运算过程
 - `gate_score.unsqueeze(1)` 形状：`(batch_size, 1, num_experts)`
 - `expert_outputs` 形状：`(batch_size, num_experts, out_features)`
