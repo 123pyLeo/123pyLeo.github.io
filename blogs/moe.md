@@ -6,9 +6,7 @@ title: 简单学习下MoE
 
 ----
 ## 1. 基础模型架构
-
 首先是一个简单的 linear 专家模型实现：
-
 ```python
 import torch
 import torch.nn as nn
@@ -35,14 +33,13 @@ class MoELayer(nn.Module):
         output = torch.bmm(gate_score.unsqueeze(1), expert_outputs).squeeze(1)
         return output
 ```
-<br>
 
 ### 实现细节说明
 #### expert_outputs 的张量维度变换
 - 各专家模型 `expert(x)` 输出形状：`(batch_size, out_features)`
 - 使用 `torch.stack` 沿第 1 维堆叠 `num_experts` 个专家输出
 - 最终得到形状：`(batch_size, num_experts, out_features)`
-<br>
+
 #### torch.bmm 运算过程
 - `gate_score.unsqueeze(1)` 形状：`(batch_size, 1, num_experts)`
 - `expert_outputs` 形状：`(batch_size, num_experts, out_features)`
