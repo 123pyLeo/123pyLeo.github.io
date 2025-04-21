@@ -8,7 +8,7 @@ layout: page
 
 Here is **Tao Lin (Leo, 林涛)**.
 
-I am an undergraduate student majoring in Artificial Intelligence at Kunming University of Science and Technology (KUST), advised by [Prof. Qingwang Wang](https://xzy.kust.edu.cn/info/1127/2815.htm) in the field of Computer Vision (CV), within the Intelligent Perception and Computing Laboratory. My current research interests include target detection and low-level vision. Moving forward, I am eager to explore and engage with multimodal technologies and embodied AI.
+I am an undergraduate student majoring in Artificial Intelligence at Kunming University of Science and Technology (KUST), advised by [Prof. Qingwang Wang](https://xzy.kust.edu.cn/info/1127/2815.htm) in the field of Computer Vision (CV), within the Intelligent Perception and Computing Laboratory. My current research include target detection and low-level vision. Moving forward, I am eager to explore and engage with multimodal technologies and embodied AI.
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - leo040102 [at] gmail.com
 
@@ -18,8 +18,6 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## 🔍 Research Interests
 
-- Target Detection
-- Low-Level Vision
 - Multimodal Technologies
 - Embodied AI
 
