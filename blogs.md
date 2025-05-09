@@ -9,13 +9,15 @@ title: Blogs
 ### 3DV学习
 - [NeRF学习笔记](https://lintao.online/blogs/nerf/)
 
+### 一周AI信息整合
+- [2025年5月第一周](https://lintao.online/blogs/inf5-1/)
+  
 ### 大模型学习
 
 - [Qwen模型微调之SFT](https://lintao.online/blogs/qwen_sft_blog/)
 - [简单学习下MoE](https://lintao.online/blogs/moe/)
 
 ### 杂谈
-
 - [2.22-3.1小结](https://lintao.online/blogs/thoughts3.1/)
 
 <br>
