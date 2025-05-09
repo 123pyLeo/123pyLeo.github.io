@@ -45,15 +45,17 @@ NeRF基于以下假设：
 <img src="nerf.assets/equ.jpg" alt="相机模型示意图" width="60%">
 </center>
 
-在NeRF中，我们需要将世界坐标系转换为相机坐标系，再转换为平面坐标系。这个过程涉及空间坐标$(x, y, z)$到图像平面坐标$(u, v)$的转换。
+在相机坐标系下，点的齐次坐标为\(\begin{bmatrix}x_c\\y_c\\z_c\\1\end{bmatrix}\)，但在透视投影时，我们主要关注前三维\(\begin{bmatrix}x_c\\y_c\\z_c\end{bmatrix}\)。
 
-在相机坐标系下，点的齐次坐标为 $\begin{bmatrix} x_c \\ y_c \\ z_c \\ 1 \end{bmatrix}$，但在透视投影时，我们主要关注前三维 $\begin{bmatrix} x_c \\ y_c \\ z_c \end{bmatrix}$。
-
-通过相机内参矩阵 $K$ 进行变换：
-$\widetilde{Q} = K\begin{bmatrix} x_c \\ y_c \\ z_c \end{bmatrix} = \begin{bmatrix} f_x & 0 & c_x \\ 0 & f_y & c_y \\ 0 & 0 & 1 \end{bmatrix}\begin{bmatrix} x_c \\ y_c \\ z_c \end{bmatrix} = \begin{bmatrix} f_x x_c + c_x z_c \\ f_y y_c + c_y z_c \\ z_c \end{bmatrix}$
+通过相机内参矩阵\(K\)进行变换：
+\[
+\widetilde{Q}=K\begin{bmatrix}x_c\\y_c\\z_c\end{bmatrix}=\begin{bmatrix}f_x & 0 & c_x\\0 & f_y & c_y\\0 & 0 & 1\end{bmatrix}\begin{bmatrix}x_c\\y_c\\z_c\end{bmatrix}=\begin{bmatrix}f_x x_c + c_x z_c\\f_y y_c + c_y z_c\\z_c\end{bmatrix}
+\]
 
 为了得到非齐次的图像平面坐标，需要进行归一化：
-$\begin{bmatrix} u \\ v \\ 1 \end{bmatrix} = \frac{1}{z_c}\begin{bmatrix} f_x x_c + c_x z_c \\ f_y y_c + c_y z_c \\ z_c \end{bmatrix}$
+\[
+\begin{bmatrix}u\\v\\1\end{bmatrix}=\frac{1}{z_c}\begin{bmatrix}f_x x_c + c_x z_c\\f_y y_c + c_y z_c\\z_c\end{bmatrix}
+\] 
 
 #### 4. 射线采样与模型结构
 
