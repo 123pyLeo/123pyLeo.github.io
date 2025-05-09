@@ -6,6 +6,9 @@ title: Blogs
 
 ## Chinese Blogs
 
+### 3DV学习
+- [NeRF学习笔记](https://lintao.online/blogs/nerf/)
+
 ### 大模型学习
 
 - [Qwen模型微调之SFT](https://lintao.online/blogs/qwen_sft_blog/)
