@@ -4,11 +4,11 @@ permalink: /blogs/nerf/index.html
 title: NeRF学习笔记
 ---
 
-## 引言
+### 引言
 
 在学习NeRF（Neural Radiance Fields）的过程中，我记录了一些关键概念和思考。本文将分享我的学习心得，帮助大家理解NeRF的工作原理。
 
-## 1. 模型输入输出的思考
+#### 1. 模型输入输出的思考
 
 <center>
 <img src="nerf.assets/pipe.jpg" alt="NeRF输入输出示意图" width="60%">
@@ -22,7 +22,7 @@ title: NeRF学习笔记
 
 这里需要特别说明的是，5D向量和4D向量都是针对粒子的表示。5D向量表示粒子的位置(x,y,z)和视角方向(θ,φ)，4D向量表示粒子的颜色(RGB)和密度(σ)。
 
-## 2. 体渲染原理
+#### 2. 体渲染原理
 
 NeRF的核心是体渲染（Volume Rendering）技术。在这个过程中，光线与粒子发生相互作用：
 
@@ -39,7 +39,7 @@ NeRF基于以下假设：
 
 理解这个后，我们产生了新的疑问：图片是怎么得到这些粒子的，同时这些粒子又是怎么渲染成新的图片的？这涉及到两个关键过程：从图片和相机位姿计算射线，从射线上采样粒子；以及通过体渲染将粒子渲染成新的图片。
 
-## 3. 相机模型与坐标转换
+#### 3. 相机模型与坐标转换
 
 <center>
 <img src="nerf.assets/equ.jpg" alt="相机模型示意图" width="60%">
@@ -55,7 +55,7 @@ NeRF基于以下假设：
 为了得到非齐次的图像平面坐标，需要进行归一化：
 \(\begin{bmatrix}u\\v\\1\end{bmatrix}=\frac{1}{z_c}\begin{bmatrix}f_x x_c+c_x z_c\\f_y y_c + c_y z_c\\z_c\end{bmatrix}\)
 
-## 4. 射线采样与模型结构
+#### 4. 射线采样与模型结构
 
 对于图片上的每个像素，我们可以将其看作沿着某条射线上的无数个发光点的和。这个射线可以表示为：rt=o+td，其中o是射线原点，d为方向，t为距离。在极坐标表示中，理论上t可以从零到正无穷。
 
@@ -76,7 +76,7 @@ NeRF基于以下假设：
 - 后半路输出密度和方向视角
 - 最后输出颜色RGB
 
-## 5. 位置编码
+#### 5. 位置编码
 
 <center>
 <img src="nerf.assets/weizhibianma.jpg" alt="位置编码示意图" width="60%">
@@ -86,7 +86,7 @@ NeRF基于以下假设：
 
 为什么空间坐标参数是10，视角坐标参数是6？论文论证了观测方向不应当影响密度，但会改变颜色，这可能是因为x,y,z对高频信息的影响更大。
 
-## 6. 损失函数与体渲染
+#### 6. 损失函数与体渲染
 
 损失函数采用自监督方式：
 - 真实值(GT)是图片某一像素的RGB
@@ -125,7 +125,7 @@ NeRF基于以下假设：
 <img src="nerf.assets/fantui.jpg" alt="反推射线" width="60%">
 </center>
 
-## 7. 采样优化
+#### 7. 采样优化
 
 为了提高效率，文章中采用了两阶段采样策略：
 1. 粗模型：均匀采样
@@ -139,8 +139,13 @@ NeRF基于以下假设：
 
 这种方法可以确保在有效区域进行更密集的采样，而在无效区域（如空白区域和遮挡区域）减少采样。具体来说，无效区域比如空白区域和遮挡区域进行均匀采样，我们希望有效区域多采样，无效区域少采样或者不采样。
 
-## 8. 总结
+#### 8. 总结
 
 <center>
 <img src="nerf.assets/zongjie.jpg" alt="总结" width="60%">
 </center>
+
+### 参考资料
+
+1. 《NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis》
+2. 【较真系列】讲人话-NeRF全解（原理+代码+公式）@[Bilibili](https://www.bilibili.com/video/BV1CC411V7oq/?spm_id_from=333.788.recommend_more_video.0&vd_source=95f9bf4ca0196f6073b97d24b90ba1da)
