@@ -11,7 +11,7 @@ title: NeRF学习笔记
 #### 1. 模型输入输出的思考
 
 <center>
-<img src="nerf.assets/pipe.jpg" alt="NeRF输入输出示意图" width="60%">
+<img src="/blogs/nerf.assets/pipe.jpg" alt="NeRF输入输出示意图" width="60%">
 </center>
 
 最初，我对NeRF的输入输出产生了疑问：为什么输入是5D向量而不是图片？图片中为什么会有theta和phi这些值？4D向量又是如何变成图片的？
@@ -42,13 +42,13 @@ NeRF基于以下假设：
 #### 3. 相机模型与坐标转换
 
 <center>
-<img src="nerf.assets/equ.jpg" alt="相机模型示意图" width="60%">
+<img src="/blogs/nerf.assets/equ.jpg" alt="相机模型示意图" width="60%">
 </center>
 
 这个公式好像不太对，我查阅了相关资料，应该按下面这种理解(公式打不出来，只能以图片形式展示了)
 
 <center>
-<img src="nerf.assets/jiuzheng.jpg" alt="纠正示意图" width="60%">
+<img src="/blogs/nerf.assets/jiuzheng.jpg" alt="纠正示意图" width="60%">
 </center>
 
 #### 4. 射线采样与模型结构
@@ -63,7 +63,7 @@ NeRF基于以下假设：
 - 共1024x64个粒子，以batch形式输入模型
 
 <center>
-<img src="nerf.assets/jiagou.jpg" alt="NeRF模型结构" width="60%">
+<img src="/blogs/nerf.assets/jiagou.jpg" alt="NeRF模型结构" width="60%">
 </center>
 
 模型结构：
@@ -75,7 +75,7 @@ NeRF基于以下假设：
 #### 5. 位置编码
 
 <center>
-<img src="nerf.assets/weizhibianma.jpg" alt="位置编码示意图" width="60%">
+<img src="/blogs/nerf.assets/weizhibianma.jpg" alt="位置编码示意图" width="60%">
 </center>
 
 当实验时发现只输入3d位置和3d视角，建模结果细节丢失，缺乏高频信息。为了改善模型性能，该方法引入了位置编码。对于空间坐标(x,y,z)，每个坐标用sin和cos表示，L从0到10，所以一个坐标有20维，三个坐标共60维。同理，视角坐标得到24维。
@@ -98,27 +98,27 @@ NeRF基于以下假设：
 
 求和公式如下：
 <center>
-<img src="nerf.assets/qiuhe.jpg" alt="求和公式" width="60%">
+<img src="/blogs/nerf.assets/qiuhe.jpg" alt="求和公式" width="60%">
 </center>
 
 下面的推导过程：
 <center>
-<img src="nerf.assets/tuidao.jpg" alt="推导过程" width="60%">
+<img src="/blogs/nerf.assets/tuidao.jpg" alt="推导过程" width="60%">
 </center>
 
 当然计算机只能进行离散化处理：
 <center>
-<img src="nerf.assets/lisanhua.jpg" alt="离散化处理" width="60%">
+<img src="/blogs/nerf.assets/lisanhua.jpg" alt="离散化处理" width="60%">
 </center>
 
 推导过程如下：
 <center>
-<img src="nerf.assets/lisantuidao.png" alt="离散化推导" width="60%">
+<img src="/blogs/nerf.assets/lisantuidao.png" alt="离散化推导" width="60%">
 </center>
 
 从图片反推射线如下：
 <center>
-<img src="nerf.assets/fantui.jpg" alt="反推射线" width="60%">
+<img src="/blogs/nerf.assets/fantui.jpg" alt="反推射线" width="60%">
 </center>
 
 #### 7. 采样优化
@@ -138,7 +138,7 @@ NeRF基于以下假设：
 #### 8. 总结
 
 <center>
-<img src="nerf.assets/zongjie.jpg" alt="总结" width="60%">
+<img src="/blogs/nerf.assets/zongjie.jpg" alt="总结" width="60%">
 </center>
 
 ### 参考资料
