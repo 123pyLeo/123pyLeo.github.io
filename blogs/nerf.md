@@ -45,17 +45,11 @@ NeRF基于以下假设：
 <img src="nerf.assets/equ.jpg" alt="相机模型示意图" width="60%">
 </center>
 
-在相机坐标系下，点的齐次坐标为\(\begin{bmatrix}x_c\\y_c\\z_c\\1\end{bmatrix}\)，但在透视投影时，我们主要关注前三维\(\begin{bmatrix}x_c\\y_c\\z_c\end{bmatrix}\)。
+这个公式好像不太对，我查阅了相关资料，应该按下面这种理解(公式打不出来，只能以图片形式展示了)
 
-通过相机内参矩阵\(K\)进行变换：
-\[
-\widetilde{Q}=K\begin{bmatrix}x_c\\y_c\\z_c\end{bmatrix}=\begin{bmatrix}f_x & 0 & c_x\\0 & f_y & c_y\\0 & 0 & 1\end{bmatrix}\begin{bmatrix}x_c\\y_c\\z_c\end{bmatrix}=\begin{bmatrix}f_x x_c + c_x z_c\\f_y y_c + c_y z_c\\z_c\end{bmatrix}
-\]
-
-为了得到非齐次的图像平面坐标，需要进行归一化：
-\[
-\begin{bmatrix}u\\v\\1\end{bmatrix}=\frac{1}{z_c}\begin{bmatrix}f_x x_c + c_x z_c\\f_y y_c + c_y z_c\\z_c\end{bmatrix}
-\] 
+<center>
+<img src="nerf.assets/jiuzheng.jpg" alt="纠正示意图" width="60%">
+</center>
 
 #### 4. 射线采样与模型结构
 
