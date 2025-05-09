@@ -10,7 +10,7 @@ title: Blogs
 - [NeRF学习笔记](https://lintao.online/blogs/nerf/)
 
 ### 一周AI信息整合
-- [2025年5月第一周](https://lintao.online/blogs/inf5-1/)
+- [2025年5月第1周](https://lintao.online/blogs/inf5-1/)
   
 ### 大模型学习
 
