@@ -11,6 +11,7 @@ title: Blogs
 
 ### 一周AI信息整合
 - [2025年5月第1周](https://lintao.online/blogs/inf5-1/)
+- [2025年5月第2周](https://lintao.online/blogs/inf5-2/)
   
 ### 大模型学习
 
