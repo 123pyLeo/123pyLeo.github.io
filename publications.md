@@ -26,7 +26,8 @@ title: Publications
 
 ## 💡 Ongoing Project
 
-- The idea is currently being conceived and will be updated soon.
+- GarmentGPT(coming soon).
+![示例图片](https://lintao.online/images/garment.jpg)
 
 <br>
 
