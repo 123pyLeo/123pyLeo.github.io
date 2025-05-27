@@ -26,7 +26,8 @@ title: Publications
 
 ## 💡 Ongoing Project
 
-- GarmentGPT(coming soon).
+- **GarmentGPT**(coming soon~).
+
 ![示例图片](https://lintao.online/images/garmentgpt.jpg)
 
 <br>
