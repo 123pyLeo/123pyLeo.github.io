@@ -20,6 +20,6 @@ title: Blogs
 
 ### 杂谈
 - [2.22-3.1小结](https://lintao.online/blogs/thoughts3.1/)
-
+- [资源过剩=没有资源？](https://lintao.online/blogs/think6-2/)
 <br>
 
