@@ -43,7 +43,7 @@ My current research focuses on practical problems in target detection and low-le
 - August 2023：Joined the Intelligent Perception and Computing Laboratory, advised by Prof. Qingwang Wang.
 <br>
 
-<script type="text/javascript" id="clustrmaps-light" 
+<script type="text/javascript" id="clustrmaps" 
 src="//clustrmaps.com/map_v2.js?d=yk-jb_ZzvLkNqbtPU-KOeDAJbRXEp1V9pCg4hHlJem8&cl=ffffff&w=a" 
 style="width: 300px; height: 225px;"></script>
 
