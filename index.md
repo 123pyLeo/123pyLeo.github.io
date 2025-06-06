@@ -8,7 +8,7 @@ layout: page
 
 Here is **Tao Lin (Leo, 林涛)**.
 
-I am an undergraduate student majoring in Artificial Intelligence at Kunming University of Science and Technology (KUST), advised by [Prof. Qingwang Wang](https://xzy.kust.edu.cn/info/1127/2815.htm) in the field of Computer Vision (CV), within the Intelligent Perception and Computing Laboratory. My current research include target detection and low-level vision. Moving forward, I am eager to explore and engage with multimodal technologies and embodied AI.
+I am an undergraduate student majoring in Artificial Intelligence at Kunming University of Science and Technology (KUST), advised by [Prof. Qingwang Wang](https://xzy.kust.edu.cn/info/1127/2815.htm) in the field of Computer Vision (CV), within the Intelligent Perception and Computing Laboratory. My past research focused on target detection and low-level vision. Currently, my research directions include **3D reconstruction**, **digital humans**, and **geometric modeling**. I am particularly interested in exploring multimodal technologies and embodied AI.
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - leo040102 [at] gmail.com
 
@@ -18,10 +18,11 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## 🔍 Research Interests
 
-- Multimodal Technologies
-- Embodied AI
+- 3D reconstruction
+- digital humans
+- geometric modeling
 
-My current research focuses on practical problems in target detection and low-level vision. I am eager to explore the integration and applications of **Multimodal Technologies** and **Embodied AI**. I believe these advanced technologies have the potential to significantly enhance our understanding and interaction with the world. I am committed to dedicating my efforts to this meaningful pursuit, aiming to contribute to technological progress.
+I am eager to explore the integration and applications of **Multimodal Technologies** and **Embodied AI**. I believe these advanced technologies have the potential to significantly enhance the realism and interactivity of digital world modeling, as well as bridge the gap between virtual and physical environments. I am committed to dedicating my efforts to this meaningful pursuit, aiming to contribute to technological progress at the intersection of geometry, artificial intelligence, and multimodal interaction.
 
 ---
 
@@ -36,7 +37,8 @@ My current research focuses on practical problems in target detection and low-le
 
 ## 📰 News and Updates
 
-- **September 2024**: Achieved the National Second Prize 🥈 in the National College Student Mathematical Modeling Competition.
+- **June 2025**: I have become a volunteer in the ****Camel**** community, responsible for planning and executing technical use cases for the OASIS/CRAB project. My focus is on video/multi-modal startup use cases integrated into the OASIS product plan.
+- September 2024: Achieved the National Second Prize 🥈 in the National College Student Mathematical Modeling Competition.
 - August 2024: Won the National First Prize 🥇 in the RAICOM Robotics Developer Competition [Algorithm Optimization].
 - August 2024: Secured 3rd Place in the iFLYTEK AI Algorithm Competition 2024 [Large Model Image Style Transfer Challenge], with a prize of 500 CNY.
 - December 2023: As an undergraduate student, I participated in the Young Scientists Conference of the Chinese Society of Image and Graphics for the first time and gained a lot.
