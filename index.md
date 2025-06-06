@@ -37,7 +37,7 @@ I am eager to explore the integration and applications of **Multimodal Technolog
 
 ## 📰 News and Updates
 
-- **June 2025**: I have become a volunteer in the ****Camel**** community, responsible for planning and executing technical use cases for the OASIS/CRAB project. My focus is on video/multi-modal startup use cases integrated into the OASIS product plan.
+- **June 2025**: I have become a volunteer in the **Camel** community, responsible for planning and executing technical use cases for the OASIS/CRAB project. My focus is on video/multi-modal startup use cases integrated into the OASIS product plan.
 - September 2024: Achieved the National Second Prize 🥈 in the National College Student Mathematical Modeling Competition.
 - August 2024: Won the National First Prize 🥇 in the RAICOM Robotics Developer Competition [Algorithm Optimization].
 - August 2024: Secured 3rd Place in the iFLYTEK AI Algorithm Competition 2024 [Large Model Image Style Transfer Challenge], with a prize of 500 CNY.
