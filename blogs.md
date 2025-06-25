@@ -6,6 +6,9 @@ title: Blogs
 
 ## Chinese Blogs
 
+### 怎么才能讲好一个故事
+- [为什么开这个专栏](https://lintao.online/blogs/nerf/)
+  
 ### 3DV学习
 - [NeRF学习笔记](https://lintao.online/blogs/nerf/)
 
