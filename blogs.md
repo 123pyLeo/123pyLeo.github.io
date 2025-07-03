@@ -12,7 +12,7 @@ title: Blogs
 - [为什么开设这个专栏](https://lintao.online/blogs/why/)
 
 ### 论文阅读
-- [OptDE](https://lintao.online/blogs/why/)
+- [OptDE](https://lintao.online/mypaper/OptDE.pdf)
 
 ### 3DV学习
 - [NeRF学习笔记](https://lintao.online/blogs/nerf/)
