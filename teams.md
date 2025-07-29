@@ -3,6 +3,31 @@ layout: page
 permalink: /teams/index.html
 title: Teams
 ---
+## 思网IdeaMesh
+
+### Motivation
+
+We believe AI can never truly replace human thought and expression—after all, human wisdom is boundless. That’s why we built a multi-perspective, inspiration-driven content platform. In this era of digital overload and algorithmic feeds, we want to preserve genuine curiosity (beyond just utility) and fragile authenticity. Our goal? To keep interesting, unique, and diverse perspectives from being reduced to clichés or templates.<br>
+
+---
+
+### Team Members
+
+- **Co-founders:** Jiacheng Jiang, Leo Wang, Tao Lin
+
+---
+
+### About Us
+
+> Our group website: [Web端官网](https://idea-mesh.vercel.app/)
+
+> Our repo: [Web端官网](https://idea-mesh.vercel.app/)
+
+> Our Platform Guidelines: [飞书](https://q8aq2rpyhu.feishu.cn/wiki/Ftt6wWTNGiFrzikP6B7ckev2nYf)
+
+> Join our WeChat group:
+![社群](https://lintao.online/images/teams/cover1.jpg)
+
 ## WeShare
 
 ### Motivation
