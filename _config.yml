@@ -44,14 +44,14 @@ links:
     url: /
   - title: Publications
     url: /publications/
-  - title: Awards
-    url: /awards/
+  - title: startup
+    url: /teams/
  # - title: Hobbies
  #   url: /hobbies/
+  - title: Awards
+    url: /awards/
   - title: Blogs
     url: /blogs/
-  - title: Teams
-    url: /teams/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
