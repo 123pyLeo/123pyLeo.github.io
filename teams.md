@@ -7,7 +7,7 @@ title: Teams
 
 ### Motivation
 
-We believe AI can never truly replace human thought and expression—after all, human wisdom is boundless. That’s why we built a multi-perspective, inspiration-driven content platform. In this era of digital overload and algorithmic feeds, we want to preserve genuine curiosity (beyond just utility) and fragile authenticity. Our goal? To keep interesting, unique, and diverse perspectives from being reduced to clichés or templates.<br>
+We believe AI can never truly replace human thought and expression—after all, human wisdom is boundless. That’s why we built a multi-perspective, inspiration-driven content platform. In this era of digital overload and algorithmic feeds, we want to preserve genuine curiosity and fragile authenticity. Our goal? To keep interesting, unique, and diverse perspectives from being reduced to clichés or templates.<br>
 
 ---
 
@@ -21,9 +21,9 @@ We believe AI can never truly replace human thought and expression—after all, 
 
 > Our group website: [Web端官网](https://idea-mesh.vercel.app/)
 
-> Our repo: [Web端官网](https://idea-mesh.vercel.app/)
+> Our repo: [Github仓库(欢迎star)](https://idea-mesh.vercel.app/)
 
-> Our Platform Guidelines: [飞书](https://q8aq2rpyhu.feishu.cn/wiki/Ftt6wWTNGiFrzikP6B7ckev2nYf)
+> Our Platform Guidelines: [平台指南](https://q8aq2rpyhu.feishu.cn/wiki/Ftt6wWTNGiFrzikP6B7ckev2nYf)
 
 > Join our WeChat group:
 ![社群](https://lintao.online/images/teams/cover1.jpg)
