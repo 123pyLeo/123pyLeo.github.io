@@ -26,7 +26,7 @@ We believe AI can never truly replace human thought and expression—after all, 
 > Our Platform Guidelines: [平台指南](https://q8aq2rpyhu.feishu.cn/wiki/Ftt6wWTNGiFrzikP6B7ckev2nYf)
 
 > Join our WeChat group:
-![社群](https://lintao.online/images/teams/cover1.jpg)
+![社群](https://lintao.online/images/teams/ea78256128e5d4658fa7b30fe312ec9.jpg)
 
 ## WeShare
 
