@@ -8,7 +8,7 @@ layout: page
 
 Here is **Tao Lin (Leo, 林涛)**.
 
-I am currently a senior undergraduate majoring in Artificial Intelligence at Kunming University of Science and Technology (KUST), advised by [Prof. Qingwang Wang](https://xzy.kust.edu.cn/info/1127/2815.htm).
+I am currently a senior undergraduate majoring in Artificial Intelligence at Kunming University of Science and Technology (KUST), previously advised by [Prof. Qingwang Wang](https://xzy.kust.edu.cn/info/1127/2815.htm).
 
 I have been admitted to the group of [Prof. Yuhui Wen](https://faculty.bjtu.edu.cn/9986/) at Beijing Jiaotong University, where I will pursue my graduate studies. My upcoming research will center on **text/image-to-3D generation**, **digital humans**, and **vision-language model**, with the long-term goal of bridging vision and language models with real-world interactive systems.
 
