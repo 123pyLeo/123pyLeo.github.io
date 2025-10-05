@@ -14,7 +14,7 @@ I have been admitted to the group of [Prof. Yuhui Wen](https://faculty.bjtu.edu.
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - leo040102 [at] gmail.com
 
-[![Static Badge](https://img.shields.io/badge/Just%20contact%20me-WeChat-green?labelColor=gray)](https://123pyLeo.github.io/images/my_wechat.jpg)  [![Stars](https://img.shields.io/github/stars/123pyLeo?style=social)](https://github.com/123pyLeo) 
+[![Static Badge](https://img.shields.io/badge/Just%20contact%20me-WeChat-green?labelColor=gray)](https://123pyLeo.github.io/images/my_wechat.jpg)  [![Stars](https://img.shields.io/github/stars/123pyLeo?style=social)](https://github.com/123pyLeo)
 
 ---
 

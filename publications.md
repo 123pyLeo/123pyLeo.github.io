@@ -8,29 +8,47 @@ title: Publications
 
 ## 📜 Conference Paper
 
-![示例图片](https://lintao.online/images/yolov8-improved.jpg)
-
-- **YOLOv8-LSD: Improved YOLOv8 Focused on Small Target Information Extraction for Road Damage Detection**  [[paper]](https://ieeexplore.ieee.org/document/10669675)<br>**Tao Lin**, Qingwang Wang~, Jiangbo Huang, Xin Qu, Gao Ju, Hua Wu<br>2024 2nd International Conference on Pattern Recognition, Machine Vision and Intelligent Algorithms (PRMVIA).<br>Changsha, China. May, 2024. 
+<div class="publication-card">
+  <div class="pub-image">
+    <img src="https://lintao.online/images/yolov8-improved.jpg" alt="Visualization from the YOLOv8-LSD road damage detection study">
+  </div>
+  <div class="pub-content">
+    <h3 class="pub-title">YOLOv8-LSD: Improved YOLOv8 Focused on Small Target Information Extraction for Road Damage Detection <span class="pub-links"><a href="https://ieeexplore.ieee.org/document/10669675" target="_blank" rel="noopener">paper</a></span></h3>
+    <p class="pub-meta"><strong>Conference:</strong> 2024 2nd International Conference on Pattern Recognition, Machine Vision and Intelligent Algorithms (PRMVIA), Changsha, China, May 2024.</p>
+    <p class="pub-authors"><strong>Authors:</strong> <strong>Tao Lin</strong>, Qingwang Wang~, Jiangbo Huang, Xin Qu, Gao Ju, Hua Wu</p>
+    <p class="pub-summary">An enhanced YOLOv8 variant tailored to capture fine-grained road damage cues from small targets, improving detection robustness for smart transportation maintenance.</p>
+  </div>
+</div>
 
 ### Under Review
 
-![示例图片](https://lintao.online/images/FASR.png)
-
-- **FASR-Net: Unsupervised Shadow Removal Leveraging Inherent Frequency Priors**  [[paper]](https://arxiv.org/abs/2504.05779)  [[code]](https://github.com/123pyLeo/FASR-Net) 
-<br>**Tao Lin**, Qingwang Wang~, Qiwei Liang, Minghua Tang, Yuxuan Sun<br>
-
-  FASR-Net, an innovative unsupervised network for shadow removal that leverages the frequency characteristics of shadow regions. Key features include a Wavelet Attention Downsampling Module (WADM) for enhanced shadow detail and novel loss functions—frequency loss, brightness-chromaticity loss, and alignment loss—to boost performance. Our experiments on the AISTD and SRD datasets demonstrate that FASR-Net surpasses many existing unsupervised and supervised methods.
-  <br>
+<div class="publication-card">
+  <div class="pub-image">
+    <img src="https://lintao.online/images/FASR.png" alt="Architecture overview of the FASR-Net shadow removal model">
+  </div>
+  <div class="pub-content">
+    <h3 class="pub-title">FASR-Net: Unsupervised Shadow Removal Leveraging Inherent Frequency Priors <span class="pub-links"><a href="https://arxiv.org/abs/2504.05779" target="_blank" rel="noopener">paper</a> <a href="https://github.com/123pyLeo/FASR-Net" target="_blank" rel="noopener">code</a></span></h3>
+    <p class="pub-meta"><strong>Status:</strong> Under review.</p>
+    <p class="pub-authors"><strong>Authors:</strong> <strong>Tao Lin</strong>, Qingwang Wang~, Qiwei Liang, Minghua Tang, Yuxuan Sun</p>
+    <p class="pub-summary">FASR-Net introduces frequency-aware supervision for unsupervised shadow removal. A Wavelet Attention Downsampling Module enhances detail preservation while dedicated frequency, brightness-chromaticity, and alignment losses deliver state-of-the-art performance on the AISTD and SRD datasets.</p>
+  </div>
+</div>
 
 ---
 
 ## 💡 Ongoing Project
 
-- **GarmentGPT**(coming soon~).
+- **GarmentGPT** (coming soon~)
 
-![示例图片](https://lintao.online/images/garmentgpt.jpg)
-
-<br>
+<div class="publication-card">
+  <div class="pub-image">
+    <img src="https://lintao.online/images/garmentgpt.jpg" alt="Concept image for the GarmentGPT project">
+  </div>
+  <div class="pub-content">
+    <p class="pub-meta"><strong>Focus:</strong> Generative design assistant for garment ideation.</p>
+    <p class="pub-summary">GarmentGPT explores how multimodal large language models can accelerate apparel prototyping, bridging text-driven inspiration with rapid visual iterations for fashion designers.</p>
+  </div>
+</div>
 
 <!--
 
