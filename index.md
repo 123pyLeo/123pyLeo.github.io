@@ -13,9 +13,7 @@ I am currently a senior undergraduate majoring in Artificial Intelligence at Kun
 I have been admitted to the group of [Prof. Yuhui Wen](https://faculty.bjtu.edu.cn/9986/) at Beijing Jiaotong University, where I will pursue my graduate studies. My upcoming research will center on **text/image-to-3D generation**, **digital humans**, and **vision-language model**, with the long-term goal of bridging vision and language models with real-world interactive systems.
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me via email at leo040102@gmail.com
- or on WeChat (lt13606513346).
-
-[![Stars](https://img.shields.io/github/stars/123pyLeo?style=social)](https://github.com/123pyLeo)
+ or on WeChat (lt13606513346). [![Stars](https://img.shields.io/github/stars/123pyLeo?style=social)](https://github.com/123pyLeo)
 
 ---
 
