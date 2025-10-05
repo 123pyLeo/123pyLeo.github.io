@@ -12,24 +12,10 @@ I am currently a senior undergraduate majoring in Artificial Intelligence at Kun
 
 I have been admitted to the group of [Prof. Yuhui Wen](https://faculty.bjtu.edu.cn/9986/) at Beijing Jiaotong University, where I will pursue my graduate studies. My upcoming research will center on **text/image-to-3D generation**, **digital humans**, and **vision-language model**, with the long-term goal of bridging vision and language models with real-world interactive systems.
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - leo040102 [at] gmail.com
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me via email at leo040102@gmail.com
+ or on WeChat (lt13606513346).
 
-[![Static Badge](https://img.shields.io/badge/Just%20contact%20me-WeChat-green?labelColor=gray)](https://123pyLeo.github.io/images/my_wechat.jpg)  [![Stars](https://img.shields.io/github/stars/123pyLeo?style=social)](https://github.com/123pyLeo)
-
-<div style="margin-top: 0.75rem; padding: 1rem; border: 1px solid #d9d9d9; border-radius: 12px; background: #f9fbff; max-width: 360px;">
-  <p style="margin: 0 0 0.75rem; font-weight: 600; font-size: 1rem;">
-    📱 <strong>Let's connect on WeChat!</strong>
-  </p>
-  <p style="margin: 0 0 0.75rem; line-height: 1.5; font-size: 0.95rem; color: #333;">
-    Scan the QR code below or tap it to enlarge. I'm happy to chat about research, collaboration, or anything else that interests you.
-  </p>
-  <a href="https://123pyLeo.github.io/images/my_wechat.jpg" style="display: inline-block;">
-    <img src="https://123pyLeo.github.io/images/my_wechat.jpg" alt="WeChat QR code to add Tao Lin (Leo)" style="width: 180px; border-radius: 12px; border: 1px solid #c0d3f2; box-shadow: 0 4px 12px rgba(64, 111, 191, 0.15);">
-  </a>
-  <p style="margin: 0.5rem 0 0; font-size: 0.9rem; color: #4661a8;">
-    Tip: Mention where you found me so I can say hi properly!
-  </p>
-</div>
+[![Stars](https://img.shields.io/github/stars/123pyLeo?style=social)](https://github.com/123pyLeo)
 
 ---
 
