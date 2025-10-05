@@ -14,7 +14,22 @@ I have been admitted to the group of [Prof. Yuhui Wen](https://faculty.bjtu.edu.
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - leo040102 [at] gmail.com
 
-[![Static Badge](https://img.shields.io/badge/Just%20contact%20me-WeChat-green?labelColor=gray)](https://123pyLeo.github.io/images/my_wechat.jpg)  [![Stars](https://img.shields.io/github/stars/123pyLeo?style=social)](https://github.com/123pyLeo) 
+[![Static Badge](https://img.shields.io/badge/Just%20contact%20me-WeChat-green?labelColor=gray)](https://123pyLeo.github.io/images/my_wechat.jpg)  [![Stars](https://img.shields.io/github/stars/123pyLeo?style=social)](https://github.com/123pyLeo)
+
+<div style="margin-top: 0.75rem; padding: 1rem; border: 1px solid #d9d9d9; border-radius: 12px; background: #f9fbff; max-width: 360px;">
+  <p style="margin: 0 0 0.75rem; font-weight: 600; font-size: 1rem;">
+    📱 <strong>Let's connect on WeChat!</strong>
+  </p>
+  <p style="margin: 0 0 0.75rem; line-height: 1.5; font-size: 0.95rem; color: #333;">
+    Scan the QR code below or tap it to enlarge. I'm happy to chat about research, collaboration, or anything else that interests you.
+  </p>
+  <a href="https://123pyLeo.github.io/images/my_wechat.jpg" style="display: inline-block;">
+    <img src="https://123pyLeo.github.io/images/my_wechat.jpg" alt="WeChat QR code to add Tao Lin (Leo)" style="width: 180px; border-radius: 12px; border: 1px solid #c0d3f2; box-shadow: 0 4px 12px rgba(64, 111, 191, 0.15);">
+  </a>
+  <p style="margin: 0.5rem 0 0; font-size: 0.9rem; color: #4661a8;">
+    Tip: Mention where you found me so I can say hi properly!
+  </p>
+</div>
 
 ---
 
@@ -31,8 +46,8 @@ I am eager to explore the integration and applications of **Multimodal Technolog
 ## 💼 Research Experience
 
 - 2025.05 - present, Research Intern, CLIA Lab, Beijing Jiaotong University.
-- 2023.09 - 2025.06, Research Intern, The Intelligent Perception and Computing Laboratory, Kunming University of Science and Technology.
 - 2025.02 - 2025.05, Algorithm Intern, CHIMER AI & GAP Lab, The Chinese University of Hong Kong, Shenzhen.
+- 2023.09 - 2025.06, Research Intern, The Intelligent Perception and Computing Laboratory, Kunming University of Science and Technology.
 - 2023.07 - 2023.08, Algorithm Intern, Westlake Xinchen.
 
 ---
