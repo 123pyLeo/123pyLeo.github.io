@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://lintao.online/image.png" class="floatpic" width="360" height="480">
+<img src="https://lintao.online/imagee.png" class="floatpic" width="360" height="480">
 
 Here is **Tao Lin (Leo, 林涛)**.
 
