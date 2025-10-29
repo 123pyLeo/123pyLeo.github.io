@@ -20,6 +20,7 @@ We’re a community of curious builders exploring the future of embodied intelli
 ### About Us
 
 > Our group website: [网站](https://hive-robot.github.io/)
+
 > The team is currently in an early exploratory phase, with all research and development carried out independently by its members. We welcome all forms of collaboration, including research partnerships, resource sharing, technical discussions, and mentorship, as we work together to advance the field of embodied intelligence.😊
 
 ## 思网IdeaMesh
