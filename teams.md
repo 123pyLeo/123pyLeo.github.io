@@ -3,6 +3,26 @@ layout: page
 permalink: /teams/index.html
 title: Teams
 ---
+## HIVE GROUP
+
+### Motivation
+
+We’re a group of makers and dreamers who build projects, run experiments, code prototypes, and share ideas about the future of intelligent systems.
+
+We believe that the essence of research lies in collaboration and continuity — guiding newcomers, reproducing papers, exchanging insights, and turning concepts into working prototypes.<br>
+
+---
+
+### Team Members
+
+- **Co-founders:** [Qiwei Liang](https://kolakivy.github.io/), Tao Lin, Boyang Cai, Jiaming Liang, Minghao Lai
+
+---
+
+### About Us
+
+> Our group website: [网站](https://hive-robot.github.io/)
+
 ## 思网IdeaMesh
 
 ### Motivation
@@ -21,12 +41,9 @@ We believe AI can never truly replace human thought and expression—after all, 
 
 > Our group website: [Web端官网](https://idea-mesh.vercel.app/)
 
-> Our repo: [Github仓库(欢迎star)](https://idea-mesh.vercel.app/)
+> Our repo: [Github仓库(欢迎star)](https://github.com/leowio/idea-mesh)
 
 > Our Platform Guidelines: [平台指南](https://q8aq2rpyhu.feishu.cn/wiki/Ftt6wWTNGiFrzikP6B7ckev2nYf)
-
-> Join our WeChat group:
-![社群](https://lintao.online/images/teams/ea78256128e5d4658fa7b30fe312ec9.jpg)
 
 ## WeShare
 
