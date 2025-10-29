@@ -4,15 +4,16 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Update: 10th Jan 2025
+> Update: 2025
 
 ## 💸 Scholarships
 
-- **First-Class Scholarship**, Kunming University of Science and Technology, (2024), 
-- **Second-Class Scholarship**, Kunming University of Science and Technology, (2023), 
-- **Third-Class Scholarship**, Kunming University of Science and Technology, (2023),
-- **Outstanding Talent Scholarship**, Kunming University of Science and Technology, (2024), 
-- **Innovation and Entrepreneurship Scholarship**, Kunming University of Science and Technology, (2024)
+*Kunming University of Science and Technology*
+
+* **Special-Class Scholarship**
+* **First-Class Scholarship**
+* **Outstanding Talent Scholarship**
+* **Innovation and Entrepreneurship Scholarship**
 
 <br>
 
