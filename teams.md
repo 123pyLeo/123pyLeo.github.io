@@ -3,6 +3,24 @@ layout: page
 permalink: /teams/index.html
 title: Startup
 ---
+
+## Dynamic Intelligence
+
+### Motivation
+
+The future of AI isn't one model that does everything. It's a network of specialized agents, each with its own strengths, working together. Agents can already talk to each other, but they don't yet know how to work together in the messy reality of tasks that span teams, tools, and timelines. How do we get an OpenAI agent, an Anthropic agent, an open-source agent, and a custom model to coordinate on the same project, hand off context, resolve conflicts, and execute as a team? That's the gap we're filling.
+
+### Team Members
+
+Founding Team: HBS · Fudan · BJTU · Sheridan · ex-Meituan
+
+### About Us
+
+> Our website: [网站](www.sandpile.com)
+
+> We are an AI-native startup backed by a million-yuan seed round investment. We're building infrastructure for Agent-to-Agent collaboration in real-world work scenarios, enabling agents from different origins to coordinate, hand off context, and execute together as a team. We are currently raising our angel round. We believe the next era of AI isn't just agents that talk, but agents that work together. 🤝
+
+
 ## HIVE GROUP
 
 ### Motivation
