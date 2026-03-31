@@ -2,6 +2,7 @@
 layout: page
 permalink: /products/index.html
 title: Vibe Products
+---
 
 ## SciAgent
 
