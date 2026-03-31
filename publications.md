@@ -4,15 +4,13 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> (†: equal contribution, ~: corresponding author)
-
 <section class="publication-showcase" aria-label="Selected publications">
   <article class="publication-card">
+    <p class="publication-venue">CVPR 2026</p>
     <div class="publication-image-wrap">
       <img src="/images/afro.png" alt="AFRO dynamic-aware representation framework teaser">
     </div>
     <div class="publication-content">
-      <p class="publication-venue">CVPR 2026</p>
       <h2 class="publication-title">Bootstrap Dynamic-Aware 3D Visual Representation for Scalable Robot Learning</h2>
       <p class="publication-authors">Qiwei Liang†, Boyang Cai†, Minghao Lai†, Sitong Zhuang†, <strong>Tao Lin</strong>, Yan Qin, Yixuan Ye, Jiaming Liang, Renjing Xu</p>
       <p class="publication-links">
@@ -24,11 +22,11 @@ title: Publications
   </article>
 
   <article class="publication-card">
+    <p class="publication-venue">arXiv 2026</p>
     <div class="publication-image-wrap">
       <img src="/images/robonvs.png" alt="Beyond Viewpoint Generalization paper visual">
     </div>
     <div class="publication-content">
-      <p class="publication-venue">arXiv 2026</p>
       <h2 class="publication-title">Beyond Viewpoint Generalization: What Multi-View Demonstrations Offer and How to Synthesize Them for Robot Manipulation?</h2>
       <p class="publication-authors">Boyang Cai†, Qiwei Liang†, Jiawei Li†, Shihang Weng†, Zhaoxin Zhang†, <strong>Tao Lin</strong>, Xiangyu Chen, Wenjie Zhang, Jiaqi Mao, Weisheng Xu, Bin Yang, Jiaming Liang, Junhao Cai, Renjing Xu~</p>
       <p class="publication-links">
@@ -40,11 +38,11 @@ title: Publications
   </article>
 
   <article class="publication-card">
+    <p class="publication-venue">arXiv 2025</p>
     <div class="publication-image-wrap">
       <img src="/images/FASR.png" alt="Architecture overview of the FASR-Net shadow removal model">
     </div>
     <div class="publication-content">
-      <p class="publication-venue">arXiv 2025</p>
       <h2 class="publication-title">FASR-Net: Unsupervised Shadow Removal Leveraging Inherent Frequency Priors</h2>
       <p class="publication-authors"><strong>Tao Lin</strong>, Qingwang Wang~, Qiwei Liang, Minghua Tang, Yuxuan Sun</p>
       <p class="publication-links">
