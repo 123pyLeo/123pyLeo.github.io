@@ -10,7 +10,9 @@ Here is **Tao Lin (Leo, 林涛)**.
 
 I am currently a senior undergraduate majoring in Artificial Intelligence at Kunming University of Science and Technology (KUST), previously advised by [Prof. Qingwang Wang](https://xzy.kust.edu.cn/info/1127/2815.htm).
 
-I have been admitted to the group of [Prof. Yuhui Wen](https://faculty.bjtu.edu.cn/9986/) at Beijing Jiaotong University, where I will pursue my graduate studies. My upcoming research will center on **text/image-to-3D generation**, **digital humans**, and **vision-language model**, with the long-term goal of bridging vision and language models with real-world interactive systems.
+I have been admitted to the group of [Prof. Yuhui Wen](https://faculty.bjtu.edu.cn/9986/) at Beijing Jiaotong University, where I will pursue my graduate studies. My upcoming research will center on **text/image-to-3D generation**, **simulation-based data generation**, and **Long-Horizon Automation**, with the long-term goal of bridging vision and language models with real-world interactive systems.
+
+During my gap period between undergraduate graduation and graduate studies, I am serving as **Head of Product Engineering** at an early-stage startup, leading development of products and technical decision-making.
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me via email at leo040102@gmail.com
  or on WeChat (lt13606513346). [![Stars](https://img.shields.io/github/stars/123pyLeo?style=social)](https://github.com/123pyLeo)
@@ -20,8 +22,8 @@ If you are interested in any aspect of me, I am always open to discussions and c
 ## 🔍 Research Interests
 
 - Text/Image-to-3D
-- Digital Humans
-- Vision-Language Model
+- Simulation-Based Data Generation
+- Long-Horizon Automation
 
 I am eager to explore the integration and applications of **Multimodal Technologies** and **Embodied AI**. I believe these advanced technologies have the potential to significantly enhance the realism and interactivity of digital world modeling, as well as bridge the gap between virtual and physical environments. I am committed to dedicating my efforts to this meaningful pursuit, aiming to contribute to technological progress at the intersection of geometry, artificial intelligence, and multimodal interaction.
 
