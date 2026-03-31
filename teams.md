@@ -16,7 +16,7 @@ Founding Team: HBS · Fudan · BJTU · Sheridan · ex-Meituan
 
 ### About Us
 
-> Our website: [网站](www.sandpile.com)
+> Our website: [沙堆](www.sandpile.com)
 
 > We are an AI-native startup backed by a million-yuan seed round investment. We're building infrastructure for Agent-to-Agent collaboration in real-world work scenarios, enabling agents from different origins to coordinate, hand off context, and execute together as a team. We are currently raising our angel round. We believe the next era of AI isn't just agents that talk, but agents that work together. 🤝
 
@@ -37,6 +37,6 @@ We’re a community of curious builders exploring the future of embodied intelli
 
 ### About Us
 
-> Our group website: [网站](https://hive-robot.github.io/)
+> Our group website: [HIVE官网](https://hive-robot.github.io/)
 
 > The team is currently in an early exploratory phase, with all research and development carried out independently by its members. We welcome all forms of collaboration, including research partnerships, resource sharing, technical discussions, and mentorship, as we work together to advance the field of embodied intelligence.😊
