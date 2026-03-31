@@ -9,7 +9,7 @@ title: Publications
 ## Publications
 
 <div class="publication-list">
-  <article class="publication-item">
+  <div class="publication-item">
     <div class="pub-image">
       <img src="/images/afro.png" alt="AFRO dynamic-aware representation framework teaser">
     </div>
@@ -24,9 +24,9 @@ title: Publications
         <a href="https://github.com/KolaKivy/AFRO" target="_blank" rel="noopener noreferrer">Code</a>
       </p>
     </div>
-  </article>
+  </div>
 
-  <article class="publication-item">
+  <div class="publication-item">
     <div class="pub-image">
       <img src="/images/robonvs.png" alt="Beyond Viewpoint Generalization paper visual">
     </div>
@@ -41,9 +41,9 @@ title: Publications
         <a href="https://github.com/YoungYNG/RoboNVS" target="_blank" rel="noopener noreferrer">Code</a>
       </p>
     </div>
-  </article>
+  </div>
 
-  <article class="publication-item">
+  <div class="publication-item">
     <div class="pub-image">
       <img src="/images/FASR.png" alt="Architecture overview of the FASR-Net shadow removal model">
     </div>
@@ -57,5 +57,5 @@ title: Publications
         <a href="https://github.com/123pyLeo/FASR-Net" target="_blank" rel="noopener noreferrer">Code</a>
       </p>
     </div>
-  </article>
+  </div>
 </div>
