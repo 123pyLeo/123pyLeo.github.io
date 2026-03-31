@@ -6,8 +6,8 @@ title: Publications
 
 <section class="publication-showcase" aria-label="Selected publications">
   <article class="publication-card">
-    <p class="publication-venue">CVPR 2026</p>
     <div class="publication-image-wrap">
+      <p class="publication-venue">CVPR 2026</p>
       <img src="/images/afro.png" alt="AFRO dynamic-aware representation framework teaser">
     </div>
     <div class="publication-content">
@@ -22,8 +22,8 @@ title: Publications
   </article>
 
   <article class="publication-card">
-    <p class="publication-venue">arXiv 2026</p>
     <div class="publication-image-wrap">
+      <p class="publication-venue">arXiv 2026</p>
       <img src="/images/robonvs.png" alt="Beyond Viewpoint Generalization paper visual">
     </div>
     <div class="publication-content">
@@ -38,8 +38,8 @@ title: Publications
   </article>
 
   <article class="publication-card">
-    <p class="publication-venue">arXiv 2025</p>
     <div class="publication-image-wrap">
+      <p class="publication-venue">arXiv 2025</p>
       <img src="/images/FASR.png" alt="Architecture overview of the FASR-Net shadow removal model">
     </div>
     <div class="publication-content">
