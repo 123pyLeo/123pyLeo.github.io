@@ -49,7 +49,9 @@ I am eager to explore the integration and applications of **Multimodal Technolog
 - August 2023：Joined the Intelligent Perception and Computing Laboratory, advised by Prof. Qingwang Wang.
 <br>
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=XF2npdpGt1Ux0eJ33ZmZjguSLnjwEAbwL7aMpnp7Mmw&cl=ffffff&w=a"style="width: 300px; height: 225px;"></script>
+<script type="text/javascript" id="mapmyvisitors"
+src="//mapmyvisitors.com/map.js?d=XF2npdpGt1Ux0eJ33ZmZjguSLnjwEAbwL7aMpnp7Mmw&cl=ffffff&w=a"
+style="width: 300px; height: 225px;"></script>
 
 
 <!--
