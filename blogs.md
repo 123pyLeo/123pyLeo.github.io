@@ -9,6 +9,15 @@ title: Blogs
 ### 个人微信公众号：**鸡笼山下** 
 
 ### 保持思考输出
+- [在夹缝里把故事讲得滚烫](https://lintao.online/blogs/在夹缝里把故事讲得滚烫/)
+- [我与昆明的故事](https://lintao.online/blogs/我与昆明的故事/)
+- [不必为小卡顿提前道歉](https://lintao.online/blogs/不必为小卡顿提前道歉/)
+- [强队都需要有人做脏活](https://lintao.online/blogs/强队都需要有人做脏活/)
+- [并购里的沉没成本](https://lintao.online/blogs/并购里的沉没成本/)
+- [成功的手感是被奖励过的偏见](https://lintao.online/blogs/成功的手感是被奖励过的偏见/)
+- [产品的起点是不确定性](https://lintao.online/blogs/产品的起点是不确定性/)
+- [纸笔允许不完整的思考](https://lintao.online/blogs/纸笔允许不完整的思考/)
+- [大学应该四处旁听](https://lintao.online/blogs/大学应该四处旁听/)
 - [了解有关人本身的一切](https://lintao.online/blogs/了解有关人本身的一切/)
 - [先有答案再有过程](https://lintao.online/blogs/先有答案再有过程/)
 - [语言参与思想生成](https://lintao.online/blogs/语言参与思想生成/)
