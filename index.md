@@ -8,7 +8,7 @@ layout: page
 
 Here is **Tao Lin (Leo, 林涛)**.
 
-I am a first-year graduate student at Beijing Jiaotong University, newly graduated from the **Artificial Intelligence** undergraduate program at Kunming University of Science and Technology (KUST), formerly advised by [Prof. Qingwang Wang](https://xzy.kust.edu.cn/info/1127/2815.htm). Under the supervision of [Prof. Yuhui Wen](https://faculty.bjtu.edu.cn/9986/), my research interests lie in **text/image-to-3D generation**, **simulation-based data generation**, and **Long-Horizon Automation**. I aim to bridge vision and language models with real-world interactive systems in my long-term research.
+I am a first-year graduate student at Beijing Jiaotong University, newly graduated from the Artificial Intelligence undergraduate program at Kunming University of Science and Technology (KUST), formerly advised by [Prof. Qingwang Wang](https://xzy.kust.edu.cn/info/1127/2815.htm). Under the supervision of [Prof. Yuhui Wen](https://faculty.bjtu.edu.cn/9986/), my research interests lie in **text/image-to-3D generation**, **simulation-based data generation**, and **Long-Horizon Automation**. I aim to bridge vision and language models with real-world interactive systems in my long-term research.
 
 During my gap period between undergraduate graduation and graduate studies, I am serving as **Head of Product Engineering** at an early-stage startup, leading development of products and technical decision-making.
 
