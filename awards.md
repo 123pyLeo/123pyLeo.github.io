@@ -8,12 +8,8 @@ title: Awards
 
 ## 💸 Scholarships
 
-*Kunming University of Science and Technology*
+During my undergraduate studies, I received every category of merit-based scholarships offered by Kunming University of Science and Technology
 
-* **Special-Class Scholarship**
-* **First-Class Scholarship**
-* **Outstanding Talent Scholarship**
-* **Innovation and Entrepreneurship Scholarship**
 
 <br>
 
