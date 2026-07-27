@@ -1,9 +1,11 @@
 ---
 layout: page
 permalink: /teams/index.html
-title: Startup
+title: Collective
 ---
 
+<!-- Dynamic Intelligence 板块已隐藏 -->
+<!--
 ## Dynamic Intelligence
 
 ### Motivation
@@ -20,6 +22,7 @@ Founding Team: HBS · Fudan · BJTU · Sheridan · ex-Meituan
 
 > We are an AI-native startup backed by a million-yuan seed round investment. We're building infrastructure for Agent-to-Agent collaboration in real-world work scenarios, enabling agents from different origins to coordinate, hand off context, and execute together as a team. We are currently raising our angel round. We believe the next era of AI isn't just agents that talk, but agents that work together. 🤝
 
+-->
 
 ## HIVE GROUP
 
