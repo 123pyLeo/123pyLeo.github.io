@@ -8,20 +8,17 @@ layout: page
 
 Here is **Tao Lin (Leo, 林涛)**.
 
-I am a first-year graduate student at Beijing Jiaotong University, newly graduated from the Artificial Intelligence undergraduate program at Kunming University of Science and Technology (KUST), formerly advised by [Prof. Qingwang Wang](https://xzy.kust.edu.cn/info/1127/2815.htm). Under the supervision of [Prof. Yuhui Wen](https://faculty.bjtu.edu.cn/9986/), my research interests lie in **Latent Space for Robot Learning** and **Long-Horizon Automation**. I aim to bridge vision and language models with real-world interactive systems in my long-term research.
+I am a first-year graduate student at Beijing Jiaotong University, newly graduated from the Artificial Intelligence undergraduate program at Kunming University of Science and Technology, formerly advised by [Prof. Qingwang Wang](https://xzy.kust.edu.cn/info/1127/2815.htm). Under the supervision of [Prof. Yuhui Wen](https://faculty.bjtu.edu.cn/9986/), my research interests lie in **Representations for Robot Learning** and **Long-Horizon Automation**. I aim to bridge vision and language models with real-world interactive systems in my long-term research.
 
 Beyond research, I have worked at a PE firm, where I was involved in technical due diligence and sourcing for AI and SaaS companies. II evaluated companies from both technical and business perspectives, looking at how they perform in research settings versus how they deliver value in the market. This experience also gave me a practical lens on how traditional SaaS products can be rethought with AI capabilities, and what actually makes an AI-native offering useful to users.
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me via email at leo040102@gmail.com
- or on WeChat (lt13606513346). [![Stars](https://img.shields.io/github/stars/123pyLeo?style=social)](https://github.com/123pyLeo)
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me via email at leo040102@gmail.com or on WeChat (lt13606513346). [![Stars](https://img.shields.io/github/stars/123pyLeo?style=social)](https://github.com/123pyLeo)
 
 ---
 
 ## 🔭 Vision
 
-The first time I watched Iron Man, I was genuinely stunned by Jarvis. It felt like magic and honestly, it still does. So I figured, why not take a shot at making something like that actually happen in my lifetime.
-
-Long term, I want to build things that actually help people. Not in a grandiose changing the world way, but in a real, everyday sense. Making life a little easier, a little safer, a little more accessible. If research can lead to products that do that, then I am in. And if startups are the way to get there, then that is the road I will take.
+The first time I watched Iron Man, I was genuinely stunned by Jarvis. It felt like magic and honestly, it still does. So I figured, why not take a shot at making something like that actually happen in my lifetime. Long term, I want to build things that actually help people. Not in a grandiose changing the world way, but in a real, everyday sense. Making life a little easier, a little safer, a little more accessible. If research can lead to products that do that, then I am in. And if startups are the way to get there, then that is the road I will take.
 
 --- 
 
