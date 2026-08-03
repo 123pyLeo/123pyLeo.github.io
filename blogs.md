@@ -9,10 +9,10 @@ title: Blogs
 ### 个人微信公众号：**鸡笼山下** 
 
 ### 保持思考输出
+- [五个月并购实习的思考](https://lintao.online/blogs/五个月并购实习的思考/)
 - [在夹缝里把故事讲得滚烫](https://lintao.online/blogs/在夹缝里把故事讲得滚烫/)
-- [我与昆明的故事](https://lintao.online/blogs/我与昆明的故事/)
-- [不必为小卡顿提前道歉](https://lintao.online/blogs/不必为小卡顿提前道歉/)
 - [强队都需要有人做脏活](https://lintao.online/blogs/强队都需要有人做脏活/)
+- [不必为小卡顿提前道歉](https://lintao.online/blogs/不必为小卡顿提前道歉/)
 - [并购里的沉没成本](https://lintao.online/blogs/并购里的沉没成本/)
 - [成功的手感是被奖励过的偏见](https://lintao.online/blogs/成功的手感是被奖励过的偏见/)
 - [产品的起点是不确定性](https://lintao.online/blogs/产品的起点是不确定性/)
@@ -23,6 +23,7 @@ title: Blogs
 - [语言参与思想生成](https://lintao.online/blogs/语言参与思想生成/)
 - [梦与顿悟](https://lintao.online/blogs/梦与顿悟/)
 - [没赶上的高铁](https://lintao.online/blogs/没赶上的高铁/)
+- [我与昆明的故事](https://lintao.online/blogs/我与昆明的故事/)
 - [分散自己的信念感](https://lintao.online/blogs/分散自己的信念感/)
 - [学生思维与自由](https://lintao.online/blogs/学生思维与自由/)
 - [市场的可守性](https://lintao.online/blogs/市场的可守性/)
