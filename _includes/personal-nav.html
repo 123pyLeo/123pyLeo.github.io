@@ -2,40 +2,9 @@
   <div class="wrap topbar-inner">
     <a class="brand" href="/">Tao Lin <span>林涛</span></a>
     <nav class="main-nav" aria-label="Main navigation">
-      <a
-        href="/"
-        {%
-        if
-        page.section=""
-        ="research"
-        %}aria-current="page"
-        {%
-        endif
-        %}
-        >Research</a
-      ><a
-        href="/investment/"
-        {%
-        if
-        page.section=""
-        ="investing"
-        %}aria-current="page"
-        {%
-        endif
-        %}
-        >Business Reflections</a
-      ><a
-        href="/fragments/"
-        {%
-        if
-        page.section=""
-        ="fragments"
-        %}aria-current="page"
-        {%
-        endif
-        %}
-        >Fragments</a
-      >
+      <a href="/" {% if page.section == 'research' %}aria-current="page"{% endif %}>Research</a>
+      <a href="/investment/" {% if page.section == 'investing' %}aria-current="page"{% endif %}>Business Reflections</a>
+      <a href="/fragments/" {% if page.section == 'fragments' %}aria-current="page"{% endif %}>Fragments</a>
     </nav>
   </div>
 </header>

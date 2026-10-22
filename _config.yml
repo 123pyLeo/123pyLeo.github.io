@@ -81,6 +81,6 @@ disqus:
   shortname: lancecai
 
 include: [".htaccess"]
-exclude: ["design-archive", "tools", "DESIGN-PREVIEW.md", "DEPLOYMENT.md", "Gemfile", "Gemfile.lock", "lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
+exclude: ["backup", "design-archive", "tools", "DESIGN-PREVIEW.md", "DEPLOYMENT.md", "Gemfile", "Gemfile.lock", "lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
 # Latest update in 2023/12/10 by Hanlin Cai.
