@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: note
 permalink: /blogs/thoughts3.1/index.html
 title: 2.22-3.1小结
+section: fragments
 ---
 
 > 真正的发现之旅不在于寻找新景观，而在于拥有新眼光。  

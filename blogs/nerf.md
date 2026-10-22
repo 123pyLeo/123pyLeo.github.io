@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: note
 permalink: /blogs/nerf/index.html
 title: NeRF学习笔记
+section: fragments
 ---
 
 ### 引言

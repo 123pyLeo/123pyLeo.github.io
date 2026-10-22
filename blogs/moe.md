@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: note
 permalink: /blogs/moe/index.html
 title: 简单学习下MoE
 mathjax: true
+section: fragments
 ---
 
 ----

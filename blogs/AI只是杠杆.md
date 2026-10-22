@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: note
 permalink: /blogs/AI只是杠杆/index.html
 title: AI只是杠杆
+section: investing
 ---
 
 打字太累了，尤其是在怒喷ai以及跟它提需求提出的时候，虽然现在用typeless缓解了好多，但是还是会有一些不方便开口讲话的场合，之后准备买一个大疆mic，真正的解放双手

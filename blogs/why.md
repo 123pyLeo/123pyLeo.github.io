@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: note
 permalink: /blogs/why/index.html
 title: 为什么开设这个专栏
+section: fragments
 ---
 
 截至2025年6月25日，回顾我近期的一篇论文投稿经历————从 ICME 的评分 54432（满分 5 分）到 ECAI 的评分 77754（满分 10 分），我发现一个常见的拒稿原因是：只要有一到两位审稿人对我工作的价值表示怀疑或否定，就很可能导致论文无法被接收。

@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: note
 permalink: /blogs/inf5-2/index.html
 title: 2025年5月第二周信息整合
+section: fragments
 ---
 
 ### 1. Sakana AI推出"持续思考机器"

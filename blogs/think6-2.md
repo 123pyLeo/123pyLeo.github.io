@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: note
 permalink: /blogs/think6-2/index.html
 title: 资源过剩=没有资源？
+section: fragments
 ---
 
 #### 资源过剩=没有资源？

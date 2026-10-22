@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: note
 permalink: /blogs/AI的前置条件缺失/index.html
 title: AI的前置条件缺失
+section: fragments
 ---
 
 在这一段时间与各种 ai 大模型的高强度交互中，我逐渐意识到一个比幻觉更隐蔽的问题：ai 给出的回答往往在逻辑上是成立的，但它默认省略了结论成立所依赖的前置条件。  

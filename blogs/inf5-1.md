@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: note
 permalink: /blogs/inf5-1/index.html
 title: 2025年5月第一周信息整合
+section: fragments
 ---
 
 ----

@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: note
 permalink: /blogs/Pain/index.html
 title: Pain
+section: fragments
 ---
 
 关于产品真正的护城河，来自长期承受痛苦的能力会大于技术本身。  

@@ -41,23 +41,15 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: Research
     url: /
-  - title: Publications
-    url: /publications/
-  - title: Collective
-    url: /teams/
-  - title: Vibe Products
-    url: /products/
- # - title: Hobbies
- #   url: /hobbies/
-  - title: Awards
-    url: /awards/
-  - title: Blogs
-    url: /blogs/
+  - title: Business Reflections
+    url: /investment/
+  - title: Fragments
+    url: /fragments/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+timezone: Asia/Shanghai
 future: true
 highlighter: rouge
 # markdown: kramdown
@@ -89,6 +81,6 @@ disqus:
   shortname: lancecai
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
+exclude: ["design-archive", "tools", "DESIGN-PREVIEW.md", "DEPLOYMENT.md", "Gemfile", "Gemfile.lock", "lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
 # Latest update in 2023/12/10 by Hanlin Cai.

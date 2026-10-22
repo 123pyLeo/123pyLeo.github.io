@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: note
 permalink: /blogs/qwen_sft_blog/index.html
 title: Qwen模型微调之SFT
+section: fragments
 ---
 
 ## Qwen模型微调之SFT
